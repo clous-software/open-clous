@@ -1,0 +1,30 @@
+import { Link } from "react-router-dom";
+import inter from "assets/img/interconnection.webp";
+import { ArrowRightIcon, ChevronRightIcon } from "@heroicons/react/20/solid";
+import { useState } from "react";
+
+export default function Integration() {
+  
+  const [isOver, setIsOver] = useState(false);
+
+  return (
+    <section id="uvp" className="py-16 text-center lg:mx-auto">
+      <h2 className="text-3xl lg:text-5xl max-w-lg mb-3 mx-auto justify-content-center">
+      Connect with the ecosystem
+      </h2>
+      <img className="rounded-lg mx-auto w-[60rem]" src={inter} alt="Integrations for Data Governance and Workflow Automation" />
+      <Link to="/cloush" className="justify-center flex text-lg font-semibold text-button-orange"
+        onMouseEnter={() => setIsOver(true)}
+        onMouseLeave={() => setIsOver(false)}
+        >
+        Check our integrations
+        {isOver && <ArrowRightIcon className="h-7 w-7 " />}
+        {!isOver && <ChevronRightIcon className="h-7 w-7" />}
+      </Link>
+      
+    </section>
+  );
+}
+
+
+

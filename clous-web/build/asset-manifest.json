@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73e3a5c3.css",
+    "main.js": "/static/js/main.a8cc704b.js",
+    "static/media/HiringTeamUX.png": "/static/media/HiringTeamUX.7eb795dda9b26ddb9916.png",
+    "static/media/CandidateUX.png": "/static/media/CandidateUX.3666dc17951fea673393.png",
+    "static/media/TrustAI.png": "/static/media/TrustAI.b6f1a752242e63dac7ca.png",
+    "static/media/ValueProps.png": "/static/media/ValueProps.3cb812d96eed3a5e546d.png",
+    "static/media/LongCircle.png": "/static/media/LongCircle.dd20e01dd05e8998b3f4.png",
+    "static/media/Circle.png": "/static/media/Circle.e8eda6e6d19bdd382abb.png",
+    "static/media/logo.png": "/static/media/logo.a09c4891636af8a52857.png",
+    "static/media/USFlag.png": "/static/media/USFlag.451b69ff40edb7d64688.png",
+    "index.html": "/index.html",
+    "main.73e3a5c3.css.map": "/static/css/main.73e3a5c3.css.map",
+    "main.a8cc704b.js.map": "/static/js/main.a8cc704b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e3a5c3.css",
+    "static/js/main.a8cc704b.js"
+  ]
+}

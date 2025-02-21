@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+<!-- English Routes -->
+<url>
+    <loc>https://www.clous.app/</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+</url>
+<url>
+    <loc>https://www.clous.app/company</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.clous.app/pricing</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://www.clous.app/cloush</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://www.clous.app/clouspeer</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://www.clous.app/editorial</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://beta.clous.app/</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://beta.clous.app/library</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://beta.clous.app/waitlist</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://beta.clous.app/contact</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://beta.clous.app/feedback</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://beta.clous.app/quote</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+</url>
+<!-- Spanish Routes -->
+<url>
+    <loc>https://www.clous.app/es/</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+</url>
+
+<!-- Portuguese Routes -->
+<url>
+    <loc>https://www.clous.app/pt/</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+</url>
+
+<!-- German Routes -->
+<url>
+    <loc>https://www.clous.app/de/</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+</url>
+
+<!-- French Routes -->
+<url>
+    <loc>https://www.clous.app/fr/</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+</url>
+
+</urlset>

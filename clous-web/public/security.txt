@@ -1,0 +1,3 @@
+Contact: mailto:security@clous.app
+Encryption: https://clous.app/pgp-key.txt
+Acknowledgments: https://clous.app/security-acknowledgments
