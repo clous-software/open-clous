@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0" />
+  <title>Cloush Application Form Web Component</title>
+
+  <script type="module" src="/build/web.esm.js"></script>
+  <script nomodule src="/build/web.js"></script>
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    header {
+      border-bottom: 1px solid #eaeaea;
+      padding-bottom: 20px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 10px;
+    }
+
+    .example {
+      border: 1px solid #eaeaea;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 40px;
+    }
+
+    pre {
+      background-color: #f6f8fa;
+      border-radius: 6px;
+      padding: 16px;
+      overflow-x: auto;
+    }
+
+    code {
+      font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 14px;
+    }
+
+    .tabs {
+      display: flex;
+      margin-bottom: 10px;
+    }
+
+    .tab {
+      padding: 8px 16px;
+      cursor: pointer;
+      border: 1px solid #eaeaea;
+      border-radius: 4px 4px 0 0;
+      margin-right: 2px;
+    }
+
+    .tab.active {
+      background-color: #f6f8fa;
+      border-bottom-color: #f6f8fa;
+    }
+
+    .tab-content {
+      display: none;
+    }
+
+    .tab-content.active {
+      display: block;
+    }
+
+    .success-message {
+      display: none;
+      background-color: #d4edda;
+      color: #155724;
+      padding: 15px;
+      border-radius: 4px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Cloush Application Form Web Component</h1>
+    <p>Easily embed the Cloush application form on any website with a simple HTML tag.</p>
+  </header>
+
+  <div class="example">
+    <h2>Example Usage</h2>
+
+    <div class="tabs">
+      <div class="tab active" data-tab="basic">Basic</div>
+      <div class="tab" data-tab="advanced">Advanced</div>
+      <div class="tab" data-tab="callbacks">Callbacks</div>
+    </div>
+
+    <div class="tab-content active" data-tab="basic">
+      <pre><code>&lt;!-- Basic Usage --&gt;
+&lt;script type="module" src="https://cdn.cloush.com/components/application-form/latest/web.esm.js"&gt;&lt;/script&gt;
+&lt;script nomodule src="https://cdn.cloush.com/components/application-form/latest/web.js"&gt;&lt;/script&gt;
+
+&lt;application-form
+  title="Apply for this position"
+  type="candidate"
+  job-id="job123"&gt;
+&lt;/application-form&gt;</code></pre>
+
+      <h3>Live Example</h3>
+      <application-form title="Apply for this position" type="candidate" job-id="job123">
+      </application-form>
+    </div>
+
+    <div class="tab-content" data-tab="advanced">
+      <pre><code>&lt;!-- Advanced Usage with Company Data --&gt;
+&lt;script type="module" src="https://cdn.cloush.com/components/application-form/latest/web.esm.js"&gt;&lt;/script&gt;
+&lt;script nomodule src="https://cdn.cloush.com/components/application-form/latest/web.js"&gt;&lt;/script&gt;
+
+&lt;application-form
+  title="Join Our Team"
+  type="employee"
+  company-data='{"id": "company456", "name": "Acme Corporation"}'
+  custom-fields='["location", "salary_expectations"]'
+  exclude-fields='["portfolio_url"]'&gt;
+&lt;/application-form&gt;</code></pre>
+
+      <h3>Live Example</h3>
+      <application-form title="Join Our Team" type="employee"
+        company-data='{"id": "company456", "name": "Acme Corporation"}'
+        custom-fields='["location", "salary_expectations"]' exclude-fields='["portfolio_url"]'>
+      </application-form>
+    </div>
+
+    <div class="tab-content" data-tab="callbacks">
+      <pre><code>&lt;!-- Usage with Callbacks --&gt;
+&lt;script type="module" src="https://cdn.cloush.com/components/application-form/latest/web.esm.js"&gt;&lt;/script&gt;
+&lt;script nomodule src="https://cdn.cloush.com/components/application-form/latest/web.js"&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  function handleApplicationSuccess() {
+    document.getElementById('success-message').style.display = 'block';
+    console.log('Application submitted successfully!');
+  }
+  
+  function handleReferFriend() {
+    window.open('https://example.com/refer', '_blank');
+    console.log('Referring a friend...');
+  }
+&lt;/script&gt;
+
+&lt;application-form
+  title="Apply Now"
+  type="candidate"
+  job-id="job789"
+  company-data='{"id": "company789", "name": "Tech Innovators"}'
+  on-success="handleApplicationSuccess"
+  on-refer-friend="handleReferFriend"&gt;
+&lt;/application-form&gt;
+
+&lt;div id="success-message" class="success-message"&gt;
+  Thank you for your application! We'll be in touch soon.
+&lt;/div&gt;</code></pre>
+
+      <h3>Live Example</h3>
+      <application-form title="Apply Now" type="candidate" job-id="job789"
+        company-data='{"id": "company789", "name": "Tech Innovators"}' on-success="handleApplicationSuccess"
+        on-refer-friend="handleReferFriend">
+      </application-form>
+
+      <div id="success-message" class="success-message">
+        Thank you for your application! We'll be in touch soon.
+      </div>
+    </div>
+  </div>
+
+  <div class="installation">
+    <h2>Installation</h2>
+
+    <p>To use the Cloush Application Form web component on your website, add the following script tags to your HTML
+      page:</p>
+
+    <pre><code>&lt;script type="module" src="https://cdn.cloush.com/components/application-form/latest/web.esm.js"&gt;&lt;/script&gt;
+&lt;script nomodule src="https://cdn.cloush.com/components/application-form/latest/web.js"&gt;&lt;/script&gt;</code></pre>
+
+    <p>Then you can use the <code>&lt;application-form&gt;</code> element anywhere in your HTML.</p>
+  </div>
+
+  <div class="documentation">
+    <h2>API Documentation</h2>
+
+    <h3>Properties</h3>
+    <ul>
+      <li><strong>title</strong>: The title displayed at the top of the form</li>
+      <li><strong>type</strong>: The type of application (candidate or employee)</li>
+      <li><strong>job-id</strong>: The ID of the job being applied for</li>
+      <li><strong>company-data</strong>: JSON string containing company information</li>
+      <li><strong>custom-fields</strong>: JSON array of custom fields to include</li>
+      <li><strong>exclude-fields</strong>: JSON array of fields to exclude</li>
+      <li><strong>on-success</strong>: Function name to call when application is successful</li>
+      <li><strong>on-refer-friend</strong>: Function name to call when refer friend is clicked</li>
+      <li><strong>script-url</strong>: Optional URL to load custom scripts</li>
+      <li><strong>style-url</strong>: Optional URL to load custom styles</li>
+    </ul>
+  </div>
+
+  <script>
+    // Tab functionality
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        const tabId = tab.getAttribute('data-tab');
+
+        // Deactivate all tabs and contents
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+
+        // Activate selected tab and content
+        tab.classList.add('active');
+        document.querySelector(`.tab-content[data-tab="${tabId}"]`).classList.add('active');
+      });
+    });
+
+    // Demo callback functions
+    window.handleApplicationSuccess = function () {
+      document.getElementById('success-message').style.display = 'block';
+      console.log('Application submitted successfully!');
+    };
+
+    window.handleReferFriend = function () {
+      window.open('https://example.com/refer', '_blank');
+      console.log('Referring a friend...');
+    };
+  </script>
+</body>
+
+</html>

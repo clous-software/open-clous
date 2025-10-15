@@ -1,0 +1,125 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Job search sucks, at least we make it fun",
+      "subtitle": "",
+      "description": "Upload your resume and analyze your skills gap, compare yourself against other candidates and make a decision about whether to quit your job or not. These tools won't help you get a job. But at least you won't get bored.",
+      "cta": "Follow us on X"   
+    },
+    "sectionCards": {
+      "cardOne": {
+          "title": "Roast my resume",
+          "description": "Did you ever get your resume roasted?"
+       },
+       "cardTwo": {
+          "title": "Why should I quit?",
+          "description": "You know why you should - we give you more reasons to."
+       },
+       "cardThree": {
+          "title": "Petie, your interviewer",
+          "description": "Practice real-world interviews 24/7."
+       },
+       "cardFour": {
+          "title": "My skills gap",
+          "description": "Ever wondered what skills you need?"
+       }
+    },
+    "sectionSentence": {
+      "title": "In a world where getting a job is so difficult and job search sucks (a lot), convincing recruiters and team members to work with them is a job in itself. We make it easier, and sometimes funny."
+    },
+		"SEO": {
+		  "title": "AI tools to get a job while having fun",
+		  "description": "Analyze your skills gap, compare yourself to other candidates, and make job decisions with a bit of fun. Featuring resume roast, interview practice, and more.",
+		  "robots": "index, follow",
+		  "image": "https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp",
+		  "openGraph": {
+		    "url": "https://talent.clous.app",
+		    "type": "website",
+		    "title": "AI tools to get a job while having fun",
+		    "description": "Use our AI-driven tools to review your resume, compare skills, and even practice interviews—while keeping the process entertaining."
+		  },
+		  "twitter": {
+		    "card": "summary_large_image",
+		    "title": "AI tools for job seekers that actually make job search fun"
+		  }
+		}
+  },
+  "Roast": {
+    "hero": {
+      "title": "Get ready for a resume roast",
+      "subtitle": "Hello world!",
+      "description": "Job search sucks. And your resume does too. We set the record straight with brutally honest feedback. Kind of like Grok in funny mode, but for your resume.",
+      "cta": "Follow us on X",
+      "responseCta1": "Follow us on X",
+      "responseCta2": "Share it on X"    
+    },
+		"SEO": {
+		  "title": "Roast your resume if you can handle it",
+		  "description": "Get brutally honest feedback on your resume and find out how much it actually sucks. Perfect for job seekers looking for a reality check.",
+		  "robots": "index, follow",
+		  "image": "https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp",
+		  "openGraph": {
+		    "url": "https://talent.clous.app/resume-roast",
+		    "type": "website",
+		    "title": "Can your resume survive the roast?",
+		    "description": "Submit your resume for a roast and find out if it’s good enough to survive the job search."
+		  },
+		  "twitter": {
+		    "card": "summary_large_image",
+		    "title": "Brutal resume roast—dare to try?"
+		  }
+		}
+  },
+   "Skills": {
+    "hero": {
+      "title": "You are two skills away from your dream job",
+      "subtitle": "Hello world!",
+      "description": "It's impossible to know what skills you need for the job you ever wanted. This tool will get you closer to that. But once you find out about those skills, it's your turn to make them part of your skillset.",
+      "cta": "Follow us on X",
+      "responseCta1": "Follow us on Linkedin",
+      "responseCta2": ""    
+    },
+    "SEO": {
+		  "title": "Analyze the skills gap in your resume",
+		  "description": "Discover what skills you’re missing to land your dream job. Our tool identifies gaps and helps you level up.",
+		  "robots": "index, follow",
+		  "image": "https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp",
+		  "openGraph": {
+		    "url": "https://talent.clous.app/skills-gap",
+		    "type": "website",
+		    "title": "Find out the skills you need to get hired",
+		    "description": "Use this tool to identify what skills you need to close the gap between you and your dream job."
+		  },
+		  "twitter": {
+		    "card": "summary_large_image",
+		    "title": "Analyze your resume's skills gap"
+		  }
+		}
+  },
+  "Quit": {
+    "hero": {
+      "title": "Don't stick to a job you hate",
+      "subtitle": "Hello world!",
+      "description": "The magic formula to quit your job, without explicitly quiting. This tool gives you the perfect recipe for you to leave your job while making everyone hate you.",
+      "cta": "Follow us on X",
+      "responseCta1": "Follow us on X",
+      "responseCta2": "Share it on X" 
+    },
+    "SEO": {
+		  "title": "Quit your job, and evaluate why",
+		  "description": "Thinking about quitting your job? Our tool gives you all the reasons why it might be the right choice for you.",
+		  "robots": "index, follow",
+		  "image": "https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp",
+		  "openGraph": {
+		    "url": "https://talent.clous.app/i-quit",
+		    "type": "website",
+		    "title": "Should you quit your job? Find out.",
+		    "description": "Evaluate the pros and cons of leaving your job with our smart tool. It’s time to make an informed decision."
+		  },
+		  "twitter": {
+		    "card": "summary_large_image",
+		    "title": "Why you should quit your job—analyze now"
+		  }
+		}
+  }
+}

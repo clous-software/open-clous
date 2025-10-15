@@ -34,7 +34,7 @@ const formSchema = z.object({
     "HR Manager",
     "HR Manageer",
     "HR Managere",
-  ])  ,
+  ]),
   cif: z.string(),
   website: z.string(),
   locations: z.array(z.string()), // Cambia location a un array de strings
@@ -71,7 +71,7 @@ const AccountSet = () => {
       lastName: "Amstrong", // Nombre predefinido
       companyName: "Clous", // Nombre predefinido
       email: "john.doe@example.com", // Email predefinido
-      password: "Ade9192913201", // Email predefinido
+      password: "********", // Demo password placeholder
       role: "HR Manager", // Deja el campo de rol vacío o predefínelo según tu lógica
       cif: "B56373665", // Deja el campo de rol vacío o predefínelo según tu lógica
       website: "www.clous.app", // Deja el campo de rol vacío o predefínelo según tu lógica
@@ -85,23 +85,23 @@ const AccountSet = () => {
     // Simular el proceso de guardado de datos (aquí podrías mostrar un indicador de carga)
     console.log("Guardando cambios...");
     await new Promise((resolve) => setTimeout(resolve, 2000)); // Simulación de una espera de 2 segundos
-  
+
     // Mostrar un mensaje de éxito (aquí podrías mostrar una notificación o mensaje en la interfaz)
     console.log("Cambios guardados exitosamente:", values);
   };
-  
 
- // Función para agregar una nueva ubicación
- const addLocation = () => {
-  setLocations([...locations, ""]);
-};
 
-// Función para eliminar una ubicación
-const handleRemoveLocation = (index: number) => {
-  setLocations((prevLocations) =>
-    prevLocations.filter((_, i) => i !== index)
-  );
-};
+  // Función para agregar una nueva ubicación
+  const addLocation = () => {
+    setLocations([...locations, ""]);
+  };
+
+  // Función para eliminar una ubicación
+  const handleRemoveLocation = (index: number) => {
+    setLocations((prevLocations) =>
+      prevLocations.filter((_, i) => i !== index)
+    );
+  };
   return (
     <main className="h-full overflow-auto w-full">
       {/* Otras secciones del componente... */}
@@ -115,44 +115,44 @@ const handleRemoveLocation = (index: number) => {
             </nav>
             {/* Nuevo formulario */}
             {/* Campo para el nombre completo */}
-      <div className="flex gap-12  items-center">
-      <FormField
-              control={form.control}
-              name="firstName"
-              render={({ field }) => (
-                <FormItem className="space-y-1">
-                  <label className="text-base font-medium">First Name</label>
-                  <FormControl>
-                    <Input
-                      placeholder="John Doe"
-                      {...field}
-                      maxLength={50}
-                      className=" border bg-transparent p-2 w-80 text-gray-foreground text-base leading-3 rounded-lg"
-                    />
-                  </FormControl>
-                  <FormMessage />
-                </FormItem>
-              )}
-            />
-            <FormField
-              control={form.control}
-              name="lastName"
-              render={({ field }) => (
-                <FormItem className="space-y-1">
-                  <label className="text-base font-medium">Last Name</label>
-                  <FormControl>
-                    <Input
-                      placeholder="Amstrong"
-                      {...field}
-                      maxLength={50}
-                      className=" border bg-transparent p-2 w-80 text-gray-foreground text-base leading-3 rounded-lg"
-                    />
-                  </FormControl>
-                  <FormMessage />
-                </FormItem>
-              )}
-            />
-      </div>
+            <div className="flex gap-12  items-center">
+              <FormField
+                control={form.control}
+                name="firstName"
+                render={({ field }) => (
+                  <FormItem className="space-y-1">
+                    <label className="text-base font-medium">First Name</label>
+                    <FormControl>
+                      <Input
+                        placeholder="John Doe"
+                        {...field}
+                        maxLength={50}
+                        className=" border bg-transparent p-2 w-80 text-gray-foreground text-base leading-3 rounded-lg"
+                      />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
+              <FormField
+                control={form.control}
+                name="lastName"
+                render={({ field }) => (
+                  <FormItem className="space-y-1">
+                    <label className="text-base font-medium">Last Name</label>
+                    <FormControl>
+                      <Input
+                        placeholder="Amstrong"
+                        {...field}
+                        maxLength={50}
+                        className=" border bg-transparent p-2 w-80 text-gray-foreground text-base leading-3 rounded-lg"
+                      />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
+            </div>
             <div className="flex justify-between  cursor-pointer items-center">
               <div>
                 <p className="font-medium">Email</p>
@@ -164,7 +164,7 @@ const handleRemoveLocation = (index: number) => {
               <Button variant="outline" className="bg-muted/5 border-0 text-base">Change Email</Button>
             </div>
             <div>
-                <FormField
+              <FormField
                 control={form.control}
                 name="role"
                 render={({ field }) => (
@@ -306,19 +306,19 @@ const handleRemoveLocation = (index: number) => {
                     maxLength={50}
                     className="border bg-transparent p-2 text-gray-foreground text-base rounded-lg w-80"
                   />
-                 {locations.length > 1 && (
-              <div
-                className="bg-muted/5 border-0 text-base rounded-lg"
-                onClick={() => handleRemoveLocation(index)}
-              >
-                <X className="h-4 w-4" />
-              </div>
-            )}
+                  {locations.length > 1 && (
+                    <div
+                      className="bg-muted/5 border-0 text-base rounded-lg"
+                      onClick={() => handleRemoveLocation(index)}
+                    >
+                      <X className="h-4 w-4" />
+                    </div>
+                  )}
                 </div>
               ))}
 
-              <p className="text-base font-semibold text-primary pt-2" 
-              onClick={addLocation}
+              <p className="text-base font-semibold text-primary pt-2"
+                onClick={addLocation}
               >
                 Add location
               </p>
@@ -332,8 +332,8 @@ const handleRemoveLocation = (index: number) => {
                   <FormItem className="space-y-1 justify-between  flex items-center">
                     <div>
 
-                    <label>Time Zone</label>
-                    <p className="text-sm pt-1 text-gray-foreground ">Lorem ipsum Lorem ipsum Lorem ipsum</p>
+                      <label>Time Zone</label>
+                      <p className="text-sm pt-1 text-gray-foreground ">Lorem ipsum Lorem ipsum Lorem ipsum</p>
                     </div>
                     <SelectShad
                       onValueChange={field.onChange}

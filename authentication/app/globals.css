@@ -1,0 +1,145 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+
+html, body, :root {
+  height: 100%;
+}
+
+h1{
+  font-size: 2rem;
+  font-weight: 600;
+} 
+ 
+
+body::-webkit-scrollbar, main::-webkit-scrollbar, html::-webkit-scrollbar, div::-webkit-scrollbar, #boards::-webkit-scrollbar , .no-resize::-webkit-scrollbar, section::-webkit-scrollbar, p::-webkit-scrollbar,  textarea::-webkit-scrollbar{
+  display: none ;
+}
+
+.no-resize{
+  font-stretch:none !important;
+  resize: none;
+}
+
+ h1, h2  {
+  color: hsl(var(--primary));
+ }
+
+ .accordion-content {
+  position: relative;
+  transition: max-height 0.3s ease-in-out;
+}
+
+.accordion-content::after {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  background: linear-gradient(0deg, hsl(var(--background)), rgba(255, 255, 255, 0));
+  pointer-events: none;
+  z-index: 1;
+}
+
+.accordion-content.max-h-36::after {
+  background: linear-gradient(0deg, hsl(var(--background)), hsla(0, 0%, 100%, 0));
+}
+
+.accordion-content.max-h-full::after {
+  background: hsl(220, 13%, 91%)
+}
+
+
+
+@layer base {
+  :root {
+    --background: 0 0% 98%;
+    --muted: 0 0% 20% ;
+
+    --card:  0 0% 98%;
+    --muted: 0 0% 20% ;
+
+   /*  --gray: 0 0% 87%; */
+    --gray: 0 0% 85%;
+    --gray-foreground: 0 0% 42%;
+ 
+    --popover: 0 0% 98%;
+ 
+    --primary: 22 89% 54%;
+    --primary-foreground: 0 0% 98%;
+ 
+    --secondary: 0 0% 100%;
+    --secondary-foreground: 19 100% 93%;
+ 
+    --muted: 330 2% 20% ;
+    --muted-foreground: 60 3% 82% ;
+ 
+    --green: 120 61 34;
+    --green-foreground: 120 61 34;
+
+    --accent: 220 13% 91%;
+    --accent-foreground: 9 97% 86%;
+ 
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 21 100% 92%;
+/*     --destructive-foreground: 30 53% 64%;
+ */
+    --border: 0 0% 89.8%;
+    --input: 0 0% 89.8%;
+    --ring: 110 100% 87%;
+
+    --success: 110 100% 87%;
+ 
+    --radius: 0.5rem;
+  }
+ 
+  .dark {
+    --background: 0 0% 3.9%;
+    --foreground: 0 0% 98%;
+ 
+    --card: 0 0% 3.9%;
+    --card-foreground: 0 0% 98%;
+
+/*     --white-gray: 0 0% 87%;
+    --gray: 0 0% 42%; */
+ 
+    --popover: 0 0% 3.9%;
+    --popover-foreground: 0 0% 98%;
+ 
+    --primary: 0 0% 98%;
+    --primary-foreground: 0 0% 9%;
+ 
+    --secondary: 0 0% 14.9%;
+    --secondary-foreground: 0 0% 98%;
+ 
+    --muted: 0 0% 14.9%;
+    --muted-foreground:  0 0% 42%;
+ 
+    --accent: 0 0% 14.9%; 
+    --accent-foreground: 0 0% 98%;
+ 
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+ 
+    --border: 0 0% 14.9%;
+    --input: 0 0% 14.9%;
+    --ring: 0 0% 83.1%;
+  }
+}
+ 
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

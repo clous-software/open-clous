@@ -1,0 +1,29 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Your hiring data and processes in one place",
+      "subtitle": "Hello world!",
+      "description": "Hiring processes end up with candidate data scattered across many platforms. That data is super valuable, specially in times of talent scarcity. Clous delivers insights that lead to effective hiring workflows.",
+      "cta": "Try it yourself"   
+    },
+    "sectionSentence": {
+      "title": "In a world where talent is the #1 asset, convincing candidates to join you and managing their data became a job in itself. We created a single hub to simplify your hiring workflows, delivering hiring insights that improve your hiring processes."
+    },
+    "SEO": {
+      "title": "Hiring Data, Intelligence and Workflows with AI",
+      "description": "Improve your hiring processes with AI-driven insights. Clous centralizes your hiring data, providing actionable insights to improve hiring workflows and candidate experience.",
+      "robots": "index, follow",
+      "image": "<https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp>",
+      "openGraph": {
+          "url": "<https://www.clous.app>",
+          "type": "website",
+          "title": "Hiring Data, Intelligence and Workflows with AI",
+          "description": "Improve your hiring processes with AI-driven insights. Clous centralizes your hiring data, providing actionable insights to improve hiring workflows and candidate experience."
+      },
+      "twitter": {
+          "card": "summary_large_image",
+          "title": "Hiring Data, Intelligence and Workflows with AI"
+      }
+    }
+  }
+}
