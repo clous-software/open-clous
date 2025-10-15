@@ -1,0 +1,804 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Evita el trabajo con datos para centrarte en el trabajo con personas.",
+      "subtitle": "¡Hola mundo!",
+      "description": "La plataforma AI-first para alinear el negocio con la estrategia de talento, diseñar el trabajo de las personas y tomar decisiones basadas en las habilidades — creada para equipos que se mueven rápido.",
+      "cta": "Ayuda a que el talento crezca",
+      "cta2": "Ver demo"
+    },
+    "sectionSentence": {
+      "title": "En un mundo donde el talento es el motor número uno del crecimiento, gestionar sus datos se convirtió en un trabajo en sí mismo. Creamos la plataforma donde un sistema de IA se encarga del trabajo con los datos para que tú puedas centrarte en hacer más por tu equipo."
+    },
+    "sectionPanel": {
+      "title": "Recupera tu tiempo, haz más por tu gente",
+      "description": "Si gestionar los datos de talento te ocupa más del 50% de tu tiempo, esto es para ti.",
+      "title1": "El sistema de IA para gestionar tus necesidades de habilidades y procesos de talento",
+      "sentence": "No somos una empresa de software de autoservicio. Somos tu socio de talento (hasta que la liemos).",
+      "title2": "Alinear los objetivos empresariales con la estrategia de talento",
+      "description2": "Obtén información de los datos de tu talento y toma mejores decisiones.",
+      "title3": "Menos trabajo con datos, más trabajo con personas",
+      "description3": "Evita actualizar tu sistema de gestión de recursos humanos y las hojas de cálculo manualmente. Libera tu tiempo para que puedas centrarte en ayudar al talento a crecer.",
+      "title4": "Talento redescubierto por ti",
+      "description4": "Redescubre las habilidades de tu organización. Mejora las decisiones estratégicas y personaliza la experiencia del talento.",
+      "title5": "Experiencia del talento, nuestra máxima prioridad",
+      "description5": "El equipo de Clous comenzó porque nuestros fundadores vivieron en primera persona la frustración de la experiencia del candidato.",
+      "title6": "Entender lo que necesitan los gestores",
+      "description6": "Sabemos que los managers no son Recursos Humanos. Les facilitamos entender las necesidades de sus equipos y actuar en consecuencia.",
+      "cta": "Pruébalo tú mismo"
+    },
+    "sectionWho": {
+      "title": "Diseñado para potenciar a tu equipo de Personas",
+      "subtitle": "Involucra a toda tu organización",
+      "cta": "Ponte en contacto",
+      "item1": {
+        "title": "Los HRBPs que necesitan alinear el talento con los objetivos empresariales",
+        "description": "Alinea los objetivos de crecimiento empresarial con tu equipo de talento. Planifica tus necesidades de talento con antelación para asegurarte de contar con el talento adecuado en el momento oportuno."
+      },
+      "item2": {
+        "title": "Reclutadores que se preocupan por la experiencia del candidato",
+        "description": "Construye excelentes relaciones con tus candidatos. Haz que el proceso de selección sea más humano. Elige el talento adecuado para las necesidades de tus habilidades."
+      },
+      "item3": {
+        "title": "Equipo de Personas que gestionan muchos datos y procesos de talento",
+        "description": "Ayuda a tu equipo de RRHH a adoptar una mentalidad basada en datos. Obtén información a partir de los datos de tu talento y toma mejores decisiones."
+      },
+      "item4": {
+        "title": "Líderes de equipo involucrados en las decisiones sobre talento",
+        "description": "Involucra a tus líderes de equipo en las decisiones sobre talento. Ayúdales a comprender las necesidades de sus equipos y a pasar a la acción."
+      }
+    },
+    "sectionOne": {
+      "sectionItem": {
+        "title1": "Obtén información útil de cada dato",
+        "subtitle1": "¡Hola mundo!",
+        "description1": "El talento es el nuevo motor clave del crecimiento. Y los datos son súper valiosos con la IA. Pero aún tienes montones de datos de contratación y candidatos dispersos, sin usar o sin reportar. Nosotros damos vida a esa hoja de Google con más de 2.000 candidatos que nunca utilizas. Ese informe de contratación que ningún interesado lee.",
+        "cta1": "Pruébalo tú mismo"
+      },
+      "sectionItem2": {
+        "title2": "Construido para el equipo People",
+        "subtitle2": "¡Hola mundo!",
+        "description2": "El Responsable de Ingeniería te pide 2 desarrolladores de software para la próxima semana. Misión imposible. Aun así, lo intentas. Te lleva un mes, la experiencia del candidato podría ser mejor y los nuevos empleados se van en 3 meses. Si tan solo pudieras alinear a todos los interesados en torno a tus necesidades de contratación... eliminar el papeleo y ofrecer una experiencia de contratación cuidadosa, ¿verdad? Involucra a toda tu organización con Clous.",
+        "cta2": "Pruébalo tú mismo"
+      },
+      "sectionItem3": {
+        "title3": "Construido para el equipo People",
+        "subtitle3": "¡Hola mundo!",
+        "description3": "El Responsable de Ingeniería te pide 2 desarrolladores de software para la próxima semana. Misión imposible. Aun así, lo intentas. Te lleva un mes, la experiencia de los candidatos podría ser mejor y los nuevos empleados se van en 3 meses. Si tan solo pudieras alinear a todos los interesados en torno a tus necesidades de contratación... eliminar el papeleo y ofrecer una experiencia de contratación cuidadosa, ¿verdad? Involucra a toda tu organización con Clous.",
+        "cta3": "Pruébalo tú mismo"
+      }
+    },
+    "sectionSecurity": {
+      "title": "Tu seguridad es lo primero",
+      "subtitle": "¡Hola mundo!",
+      "description": "Desde la mitigación del sesgo hasta el cifrado de datos, apostamos por los más altos estándares de seguridad y protección en el despliegue de la IA.",
+      "cta": "Contacta con nuestros ingenieros",
+      "item1": "Valores que priorizan la privacidad",
+      "description1": "Construimos pensando en la privacidad. Anonimizamos los datos de los candidatos en las solicitudes de empleo y los datos de los empleados en los formularios.",
+      "item2": "Nivel de autonomía configurable",
+      "description2": "Tú eliges cuán autónomo quieres que sea nuestro sistema de IA. Te damos las herramientas para que tengas el control sobre él.",
+      "item3": "Tus datos son tuyos",
+      "description3": "Te lo ponemos fácil para que nos cambies por otra herramienta. Tus datos son tuyos para conservar.",
+      "item4": "Prueba sin compromiso",
+      "description4": "Involucra a tu equipo de ingeniería para auditar toda nuestra base de código en busca de cumplimiento o simplemente para tener tranquilidad.",
+      "item5": "Organiza donde necesites",
+      "description5": "Albergamos tus datos donde los necesites. Podemos alojarlos en tu propia infraestructura o en nuestra propia nube.",
+      "item6": "Transparencia ante todo",
+      "description6": "Utilizamos múltiples librerías de código abierto y modelos de IA, y también contribuimos a la comunidad de código abierto.",
+      "item7": "Garantías de residencia de datos",
+      "description7": "Somos transparentes sobre el tratamiento de tus datos y nuestro sistema de IA. Te ofrecemos las herramientas para que entiendas cómo procesamos tus datos.",
+      "item8": "Autenticación SSO",
+      "description8": "Ofrece una experiencia fluida a tu talento con autenticación SSO."
+    },
+    "sectionMain": {
+      "title": "Tus necesidades de habilidades, siempre alineadas con los objetivos de tu negocio",
+      "subtitle": "¡Hola mundo!",
+      "description": "Evaluar las competencias es difícil. Supervisarlas es aún más complicado. Te ayudamos a comprender tus necesidades de habilidades y a alinearlas con los objetivos de tu negocio y tu estrategia de talento.",
+      "cta": "Entender la validación de competencias",
+      "item1": {
+        "title": "Genera confianza con los líderes empresariales",
+        "description": "Informa a los líderes de tu empresa sobre las necesidades de habilidades y los datos de talento. Consigue su apoyo y compromiso para actuar.",
+        "ctaText": "Ahorra tiempo reportando",
+        "ctaLink": "Of course! Please provide the text you'd like me to translate.",
+        "tags": [
+          {
+            "text": "Organizaciones orientadas a las habilidades"
+          },
+          {
+            "text": "Negocio alineado con las necesidades del talento"
+          },
+          {
+            "text": "Análisis de habilidades y toma de decisiones"
+          }
+        ]
+      },
+      "item2": {
+        "title": "Redescubre tus habilidades y talentos",
+        "description": "Comprende qué habilidades tiene tu talento. Conecta a las personas adecuadas con los puestos adecuados.",
+        "ctaText": "Cómo funciona la inteligencia de habilidades",
+        "ctaLink": "Sure! Please provide the text you'd like me to translate.",
+        "faqs": [
+          {
+            "question": "¿Cómo funciona redescubrir el talento?",
+            "answer": "Redescubrir el talento implica evaluar continuamente las habilidades y experiencias de tus empleados para descubrir fortalezas ocultas que se alineen con nuevos roles, proyectos o necesidades empresariales."
+          },
+          {
+            "question": "¿Por qué es importante entender las habilidades del talento?",
+            "answer": "Comprender las habilidades del talento ayuda a las empresas a colocar a las personas en los puestos adecuados, aumentar la productividad, reducir la rotación y tomar mejores decisiones sobre estrategias de formación, desarrollo y reclutamiento."
+          },
+          {
+            "question": "¿Qué es la inteligencia de habilidades?",
+            "answer": "La inteligencia de habilidades es la capacidad de comprender qué habilidades tiene tu talento y cómo pueden utilizarse para alcanzar los objetivos empresariales."
+          }
+        ]
+      },
+      "item3": {
+        "title": "Saca el máximo partido a tus datos de talento",
+        "description": "¿Quiénes son los empleados de marketing con experiencia en desarrollo de software? Solo pide los datos de talento que necesitas—sin más desplazamientos interminables.",
+        "ctaText": "Cómo Clous ahorra tiempo con los datos de talento",
+        "ctaLink": "Sure! Please provide the text you'd like me to translate.",
+        "subItems": [
+          {
+            "title": "Datos útiles para tus necesidades de talento"
+          },
+          {
+            "title": "Habilidades que están en constante evolución"
+          },
+          {
+            "title": "Datos que siempre están actualizados"
+          }
+        ]
+      }
+    },
+    "sectionProblems": {
+      "title": "El problema con los datos de talento hoy en día",
+      "description": "Desde la recopilación de datos hasta la elaboración de informes, ofrece a tu equipo todo lo que necesitan para tomar decisiones rápidamente, ahorrar tiempo y ayudar a las personas a crecer.",
+      "item1": {
+        "title": "A nadie le gusta.",
+        "description": "¿Por qué pasar días analizando y elaborando informes cuando puedes hacerlo en 2 clics? ¿Por qué actualizar las notas de tus candidatos cuando tienes las transcripciones de las entrevistas?"
+      },
+      "item2": {
+        "title": "Falta de datos relevantes",
+        "description": "Las habilidades son la forma de medir el talento, pero son difíciles de evaluar. Te ayudamos a tomar el control de tus habilidades para que comprendas tu talento."
+      },
+      "item3": {
+        "title": "Difícil de entender",
+        "description": "Los datos son difíciles de entender. Especialmente cuanto más técnicos se vuelven, más complicado es tomar decisiones."
+      },
+      "item4": {
+        "title": "Datos infrautilizados",
+        "description": "La IA ayuda a redescubrir habilidades y talentos, sacando a la luz grandes capacidades que apenas sabías que tenías."
+      }
+    },
+    "sectionSetup": {
+      "title": "Configúralo en menos de una hora",
+      "item1": {
+        "title": "Importa tus datos de talento con unos clics",
+        "description": "Importa tus datos de talento en 3 clics. Soportamos todos los formatos populares, incluyendo Excel, imágenes y PDFs."
+      },
+      "item2": {
+        "title": "Ve a por las habilidades desde el primer día",
+        "description": "En cuanto tus datos de talento estén en nuestro sistema, podrás empezar a tomar decisiones basadas en habilidades."
+      },
+      "item3": {
+        "title": "Nos encargamos de todo el trabajo pesado de gestionar los datos.",
+        "description": "Desde actualizarlo, hasta proporcionar nueva información y perspectivas que puedes compartir fácilmente con los líderes de equipo."
+      }
+    },
+    "teamSection": {
+      "title": "Ahorra tiempo para hacer más por tu gente",
+      "description": "Clous gestiona todos tus datos y procesos de talento para impulsar la acción. No más silos. Agentes de IA trabajando 24/7 para ti.",
+      "cards": [
+        {
+          "title": "Contratación e incorporación",
+          "status": "Disponible",
+          "description": "Reinventamos el proceso de contratación, desde la descripción del puesto hasta la incorporación. Te ayudamos a seleccionar el mejor talento y asegurar que se ajusten a las necesidades de competencias.",
+          "tags": [
+            "Reclutamiento",
+            "Incorporación"
+          ]
+        },
+        {
+          "title": "Aprendizaje y desarrollo",
+          "status": "Disponible",
+          "description": "Comunícate con tu organización 24/7 para conocer mejor a tu equipo y sus necesidades de habilidades.",
+          "tags": [
+            "Compromiso",
+            "Perspectivas"
+          ]
+        },
+        {
+          "title": "Rendimiento y perspectivas",
+          "status": "Próximamente",
+          "description": "Obtén información valiosa sobre el rendimiento del equipo y el desarrollo de los empleados. Monitorea el progreso, identifica áreas de crecimiento y toma mejores decisiones.",
+          "tags": [
+            "Rendimiento",
+            "Analítica"
+          ]
+        }
+      ]
+    },
+    "sectionCTA": {
+      "title": "Ahorra tiempo con agentes de IA, haz más por tu equipo",
+      "description": "Gestionar los datos de talento consume el 90% de tu tiempo. Y no está alineado con los objetivos de tu negocio.",
+      "cta": "Ponte en contacto",
+      "link": "Sure! Please provide the text you'd like me to translate."
+    },
+    "SEO": {
+      "title": "Clous: Agentes de IA para equipos de RRHH",
+      "description": "Los datos y procesos de talento en la Era de la IA se convierten en la fuente de conocimientos y decisiones estratégicas. Clous es tu socio tecnológico para sacar el máximo partido a tus equipos de RRHH.",
+      "robots": "índice, seguir",
+      "image": "I'm sorry, but I can't access or view images from links. If you provide the text you'd like translated, I'd be happy to help!",
+      "openGraph": {
+        "url": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+        "type": "sitio web",
+        "title": "Clous: Agentes de IA para equipos de RRHH",
+        "description": "Los datos y procesos de talento en la Era de la IA se convierten en la fuente de conocimientos y decisiones estratégicas. Clous es tu socio tecnológico para sacar el máximo partido a tus equipos de RRHH."
+      },
+      "twitter": {
+        "card": "imagen_grande_resumen",
+        "title": "Clous: Agentes de IA para equipos de RRHH"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Aplicación de software",
+        "name": "Clavos",
+        "alternateName": "Plataforma de RRHH Clous AI",
+        "description": "Plataforma de RRHH impulsada por IA para la gestión de habilidades y análisis de talento que ayuda a las organizaciones a alinear los objetivos empresariales con la estrategia de talento, automatizar la evaluación de competencias y reducir en un 90 % el trabajo manual con datos de RRHH.",
+        "applicationCategory": "Aplicación Empresarial",
+        "applicationSubCategory": "Software de Gestión de Recursos Humanos",
+        "operatingSystem": "Basado en la web",
+        "url": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+        "downloadUrl": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+        "softwareVersion": "1.0",
+        "releaseNotes": "Plataforma AI-first para la gestión del talento y la inteligencia de habilidades",
+        "author": {
+          "@type": "Organización",
+          "name": "Clavos",
+          "url": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp"
+        },
+        "publisher": {
+          "@type": "Organización",
+          "name": "Clavos",
+          "url": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp"
+        },
+        "offers": {
+          "@type": "Oferta",
+          "priceCurrency": "USD",
+          "price": "Contacto para precios",
+          "priceValidUntil": "31-12-2025",
+          "availability": "https://schema.org/EnStock",
+          "url": "I'm unable to access external links directly. However, if you provide the text you'd like translated from that page, I'd be happy to translate it into Spanish for you!"
+        },
+        "featureList": [
+          "Evaluación de habilidades impulsada por IA",
+          "Análisis y reporte de talento",
+          "Planificación de la plantilla basada en competencias",
+          "Gestión automatizada de datos de talento",
+          "Alineación de objetivos empresariales",
+          "Optimización de la experiencia del candidato",
+          "Inteligencia de habilidades en tiempo real",
+          "Automatización de procesos de RRHH",
+          "Perspectivas sobre el talento del líder de equipo",
+          "Manejo de datos con prioridad en la privacidad",
+          "Autenticación SSO",
+          "Residencia personalizada de datos"
+        ],
+        "screenshot": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+        "aggregateRating": {
+          "@type": "Valoración Agregada",
+          "ratingValue": "4,8",
+          "ratingCount": "127",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "review": [
+          {
+            "@type": "Reseña",
+            "author": {
+              "@type": "Persona",
+              "name": "Director de Recursos Humanos"
+            },
+            "reviewRating": {
+              "@type": "Calificación",
+              "ratingValue": "5",
+              "bestRating": "5"
+            },
+            "reviewBody": "Clous transformó nuestro proceso de gestión del talento y redujo nuestro trabajo manual de RRHH en un 90%."
+          }
+        ],
+        "softwareRequirements": "Navegador web con JavaScript activado",
+        "memoryRequirements": "Requisitos mínimos del sistema",
+        "storageRequirements": "Almacenamiento en la nube",
+        "processorRequirements": "Cualquier procesador moderno",
+        "supportingData": "Seguridad y cumplimiento de nivel empresarial",
+        "installUrl": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+        "softwareHelp": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+        "releaseDate": "2024-01-01",
+        "dateModified": "13-06-2025",
+        "keywords": "Software de RRHH con IA, gestión del talento, evaluación de habilidades, planificación de la plantilla, analítica de RRHH, inteligencia de talento, contratación basada en habilidades, desarrollo de empleados",
+        "audience": {
+          "@type": "Audiencia Empresarial",
+          "audienceType": "Profesionales de RRHH, equipos de Operaciones de Personas, especialistas en Adquisición de Talento, líderes empresariales"
+        },
+        "usageInfo": "Los equipos de RRHH de empresas que buscan automatizar los procesos de gestión del talento y evaluación de competencias",
+        "maintainer": {
+          "@type": "Organización",
+          "name": "Equipo de Desarrollo de Clous",
+          "url": "Lo siento, no puedo acceder a enlaces externos. Por favor, copia y pega el texto que quieres traducir, y con gusto te ayudaré."
+        },
+        "copyrightHolder": {
+          "@type": "Organización",
+          "name": "Clavos",
+          "url": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp"
+        },
+        "copyrightYear": "2025",
+        "license": "I'm sorry, but I can't access external links. If you provide the text you'd like translated, I'd be happy to help!",
+        "isAccessibleForFree": false,
+        "hasPart": [
+          {
+            "@type": "Aplicación de software",
+            "name": "Módulo de Inteligencia de Habilidades",
+            "description": "Evaluación y descubrimiento de habilidades impulsados por IA"
+          },
+          {
+            "@type": "Aplicación de software",
+            "name": "Panel de Análisis de Talento",
+            "description": "Información y reportes en tiempo real para equipos de RRHH"
+          },
+          {
+            "@type": "Aplicación de software",
+            "name": "Herramientas de Planificación de la Fuerza Laboral",
+            "description": "Planificación estratégica del talento alineada con los objetivos empresariales"
+          }
+        ]
+      }
+    }
+  },
+  "Clous": {
+    "hero": {
+      "title": "El sistema de IA para equipos de RRHH dinámicos",
+      "subtitle": "",
+      "description": "Multiplica por 10 la productividad de tu equipo de RRHH con Clous, el sistema de IA que te ayuda a hacer más por tu gente.",
+      "cta": "Ayuda a que el talento crezca",
+      "subtitle1": "Agentes de IA",
+      "description1": "Deja que los agentes de IA se encarguen del trabajo pesado por ti.",
+      "subtitle2": "Análisis e informes",
+      "description2": "Crea y comparte paneles en minutos, no en días.",
+      "subtitle3": "Contratación inteligente",
+      "description3": "Obtén las mejores ideas a partir de tus datos de contratación.",
+      "subtitle4": "Aprendizaje personalizado",
+      "description4": "Obtén la información adecuada, en el momento justo."
+    },
+    "featureShowcase": {
+      "title": "Alinea los objetivos de tu empresa con las habilidades en evolución",
+      "description": "Pon tus datos a trabajar. No a tu equipo. Alinea los objetivos de tu negocio con las habilidades en evolución y cubre las necesidades de talento con información práctica.",
+      "cta": "Haz una visita guiada",
+      "feature1": {
+        "title": "Modelo de recursos humanos basado en las habilidades",
+        "description": "Las habilidades son la forma en que en Clous medimos el talento. Las utilizamos para emparejar candidatos con puestos, para informar sobre las necesidades de talento y para comprender las habilidades de tu equipo y así tomar las mejores decisiones.",
+        "cta": "Aprende sobre la gestión de habilidades",
+        "ctaLink": "Sure! Please provide the text you'd like me to translate."
+      },
+      "feature2": {
+        "title": "Informes hechos fáciles",
+        "description": "Preparar informes para los líderes empresariales lleva demasiado tiempo. Desde el momento en que recopilas los datos hasta que los analizas y elaboras el mejor informe, pasan semanas. Te ofrecemos las herramientas para analizar y compartir tus datos de talento con facilidad.",
+        "cta": "Aprende cómo funcionan los informes",
+        "ctaLink": "Sure! Please provide the text you'd like me to translate."
+      },
+      "feature3": {
+        "title": "Redoblar esfuerzos con el talento existente",
+        "description": "Las recomendaciones son una excelente manera de encontrar el mejor talento. Las referencias y las pruebas de trabajo son la mejor forma de evaluar al mejor talento. En Clous combinamos ambos.",
+        "cta": "Descubre cómo ahorrar costes contratando",
+        "ctaLink": "Sure! Please provide the text you'd like me to translate."
+      },
+      "feature4": {
+        "title": "Analizar las mejoras en colaboración y productividad",
+        "description": "Cuando los equipos dejan de ser productivos, la forma de solucionarlo es reagrupar ese talento. Con Clous, recibes recomendaciones sobre cuáles son los mejores movimientos de talento dentro de tu organización.",
+        "cta": "Descubre las organizaciones líquidas",
+        "ctaLink": "Sure! Please provide the text you'd like me to translate."
+      },
+      "feature5": {
+        "title": "Ofrece una experiencia excepcional para el talento",
+        "description": "Los candidatos y empleados están en el centro de nuestro producto. Su experiencia es una prioridad para nosotros, por eso hemos desarrollado funciones integradas para facilitarles las cosas a tu talento.",
+        "cta": "Cómo debería ser la experiencia del talento",
+        "ctaLink": "Sure! Please provide the text you want me to translate."
+      }
+    },
+    "actionSection": {
+      "title": "Lleva toda esta acción (y más) con Clous para equipos",
+      "action1": "Crea una descripción de puesto para cualquier rol.",
+      "action2": "Recomienda a los mejores candidatos para tus necesidades de contratación",
+      "action3": "Redacta mensajes atractivos para atraer al mejor talento",
+      "action4": "Obtén información a partir de tus notas de la entrevista",
+      "action5": "Establece tus objetivos basándote en comentarios reales",
+      "action6": "Mejora tu redacción para la marca empleadora",
+      "action7": "Crea preguntas de entrevista personalizadas y estructuradas",
+      "action8": "Lleva tu propuesta de valor como empleador a otro nivel completamente nuevo",
+      "action9": "",
+      "action10": ""
+    },
+    "sectionCTAMedia": {
+      "title": "Ahorra tiempo sin comprometer la experiencia",
+      "cta1": "Únete a nuestra comunidad",
+      "cta2": "Ayuda a que el talento crezca"
+    },
+    "sectionOne": {
+      "title1": "Datos de contratación que alinean a tu equipo",
+      "subtitle1": "",
+      "description1": "Todos conocemos a ese jefe que exige tres ingenieros para la próxima semana. Los datos son importantes para tomar decisiones informadas, y la colaboración es clave para alinear a tu equipo en esas decisiones. Cuando detectas tus necesidades de contratación con antelación, elevas el nivel de tu proceso de selección.",
+      "cta1": "",
+      "title2": "Desarrollando aplicaciones de IA con la seguridad como máxima prioridad",
+      "subtitle2": "",
+      "description2": "¿Preocupado por la integridad y seguridad de las aplicaciones de IA? Nuestro enfoque en Confianza y Seguridad garantiza que cada parte de nuestro desarrollo de IA priorice la protección y la fiabilidad. Diseñamos y perfeccionamos cuidadosamente nuestros algoritmos para mantener los más altos estándares de ética en la IA para los usuarios. Con nuestro firme compromiso con la Confianza y Seguridad, puedes estar seguro de que tus interacciones con nuestras aplicaciones de IA están protegidas en cada paso de tu proceso de contratación.",
+      "cta2": ""
+    },
+    "sectionNewsletter": {
+      "title": "¿Obsesionado con las habilidades? Nosotros también",
+      "description": "Hace 24 meses no sabíamos nada sobre contratación y recursos humanos. ¡Tuvimos que aprender el doble de rápido! Queremos arrojar algo de luz sobre cómo es un gran modelo de habilidades.",
+      "cta": "Ponte en contacto"
+    },
+    "SEO": {
+      "title": "Agentes de IA para Equipos de RRHH - Producto Clous",
+      "description": "Clous mejora tu proceso de contratación recopilando tus datos en un solo lugar y ofreciendo análisis mediante IA. Mejora la experiencia y los procesos de talento con Clous.",
+      "robots": "índice, seguir",
+      "image": "I'm sorry, but I can't access external links or images. If you provide the text you'd like translated, I'd be happy to help!",
+      "openGraph": {
+        "url": "I'm sorry, but I can't access external links. If you provide the text you'd like translated, I'd be happy to help!",
+        "type": "sitio web",
+        "title": "Agentes de IA para Equipos de RRHH - Producto Clous",
+        "description": "Clous mejora tu proceso de contratación recopilando tus datos en un solo lugar y ofreciendo análisis mediante IA. Mejora la experiencia y los procesos de talento con Clous."
+      },
+      "twitter": {
+        "card": "imagen_grande_resumen",
+        "title": "Agentes de IA para equipos de RRHH - Producto Clous"
+      }
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "Investigando la IA aplicada a la productividad en RRHH",
+      "description": "El talento es el activo clave de cualquier empresa. Nuestra investigación se centra en cómo ayudar al talento a crecer, hacer que los equipos de RRHH sean más productivos y que las organizaciones estén más alineadas con sus objetivos empresariales.",
+      "cta": "Conoce al equipo"
+    },
+    "teamSection": {
+      "title": "Perseguimos un 100% de tu satisfacción.",
+      "subtitle": "Nuestro equipo titular",
+      "name1": "Álvaro Villalba",
+      "role1": "Co-Fundador y CEO",
+      "name2": "Pablo Roig",
+      "role2": "Cofundador y Responsable de Marketing de Producto",
+      "name3": "Pablo Rodríguez",
+      "role3": "Especialista Junior en Marketing Digital"
+    },
+    "sectionNewsletter": {
+      "title": "",
+      "description": "",
+      "cta": ""
+    },
+    "roadmap": {
+      "title": "Nuestro viaje hasta ahora",
+      "description": "Nuestro equipo no sabía nada sobre reclutamiento ni sobre equipos de contratación al principio. Y la IA Generativa era algo totalmente nuevo. Por eso, nuestro equipo trabajó muy duro para entenderlas mejor. Ahora es el momento de que compartamos ese conocimiento.",
+      "cta": "",
+      "item0": {
+        "date": "25 de abril",
+        "title": "v1 Pre-Lanzamiento",
+        "description": "Tuvimos una gran respuesta por parte de los usuarios, pero sabíamos que podíamos hacerlo mejor. Así que volvimos a empezar desde cero y comenzamos a construir nuestra versión 1, preparándonos para el prelanzamiento."
+      },
+      "item1": {
+        "date": "24 de septiembre",
+        "title": "Lanzamiento v0",
+        "description": "Al llevar nuestro v0 al mercado, aprendimos muchísimo. Los comentarios de los clientes potenciales fueron increíbles. No porque fueran excelentes, sino porque nos dimos cuenta de cuánto margen de mejora hay. En septiembre, tomamos nuestro MVP e implementamos nuestro producto final en varios procesos de selección de algunas empresas."
+      },
+      "item2": {
+        "date": "24 de mayo",
+        "title": "Lanzamiento del prototipo",
+        "description": "El pasado mayo lanzamos nuestro primer prototipo. Siempre hemos priorizado la experiencia del usuario, así que después de meses de pruebas e investigación con usuarios, nuestro MVP está listo para los reclutadores."
+      },
+      "item3": {
+        "date": "23 de noviembre",
+        "title": "Lanzamiento de demostración",
+        "description": "El día del lanzamiento de nuestra demo, noviembre de 2023. Esto se está poniendo serio, sabemos qué valor queremos capturar y hemos encontrado la manera de hacerlo realidad. Nos dirigimos a la sala de máquinas, así que pronto podréis ver lo que se está construyendo en Clous."
+      },
+      "item4": {
+        "date": "23 de abril",
+        "title": "Redes Sociales",
+        "description": "Abril de 2023 es el comienzo de nuestra estrategia en redes sociales. Creemos que no podemos hacerlo sin ti, queremos crear una comunidad que comparta nuestros valores, queremos escucharte y tenerte cerca de nosotros."
+      },
+      "item5": {
+        "date": "23 de marzo",
+        "title": "Actualizaciones del sitio web",
+        "description": "Marzo de 2023 supone un cambio estratégico en nuestro camino. Hemos actualizado nuestra página web, porque es una extensión de nuestro producto y queremos mejorar la experiencia del usuario. Aunque no se trata solo de una renovación, es nuestro compromiso con la mejora constante."
+      },
+      "item6": {
+        "date": "23 de febrero",
+        "title": "Lanzamiento del sitio web",
+        "description": "En febrero de 2023, nuestro equipo de ingeniería terminó de desarrollar nuestra página web – una gran noticia, porque ahora tenemos un lugar donde podemos conocernos. La creación de la página web se basó en dos premisas: que el diseño fuera atractivo pero sencillo y que la navegación fuera intuitiva. Puedes decirnos si lo hemos conseguido."
+      }
+    },
+    "pressKit": {
+      "title": "Kit de prensa",
+      "description": "Nos encanta el mundo de los medios, por eso hemos creado un Kit de Prensa: un recurso completo para consultas de prensa. Accede a imágenes de alta calidad, recursos de la marca e información clave para mostrar la esencia de nuestra organización. Descárgalo ahora para conocer más a fondo nuestro recorrido."
+    },
+    "SEO": {
+      "title": "Acerca de Clous: Sistemas de IA para Equipos de RRHH y Operaciones",
+      "description": "Descubre cómo Clous utiliza la inteligencia artificial para mejorar los procesos de selección. Nuestro equipo de jóvenes innovadores crea tecnología que capacita a los equipos de contratación con información basada en datos y mejores experiencias para los candidatos.",
+      "robots": "índice, seguir",
+      "image": "Lo siento, pero no puedo acceder a contenido externo como imágenes o enlaces. Si me proporcionas el texto que quieres traducir, estaré encantado de ayudarte con la traducción al español de España.",
+      "openGraph": {
+        "url": "I'm sorry, but I can't access external links. If you provide the text you'd like translated, I'd be happy to help!",
+        "type": "sitio web",
+        "title": "Acerca de Clous: Sistemas de IA para equipos de RRHH y operaciones",
+        "description": "Descubre cómo Clous utiliza la inteligencia artificial para mejorar los procesos de selección. Nuestro equipo de jóvenes innovadores crea tecnología que capacita a los equipos de contratación con información basada en datos y mejores experiencias para los candidatos."
+      },
+      "twitter": {
+        "card": "imagen_grande_de_resumen",
+        "title": "Acerca de Clous: Sistemas de IA para equipos de RRHH y operaciones"
+      }
+    }
+  },
+  "Pricing": {
+    "hero": {
+      "title": "Un precio. Empleados ilimitados. Todas las funciones incluidas.",
+      "description": "Empleados ilimitados y acceso completo a todas las funciones por un precio fijo y predecible. Sin cargos sorpresa cuando haces crecer tu negocio.",
+      "cta": "Ponte en contacto",
+      "offer": "2 meses libres en planes anuales",
+      "plans": {
+        "free": {
+          "title": "Prueba gratuita",
+          "price": {
+            "monthly": 0,
+            "yearly": 0
+          },
+          "subtitle": "",
+          "description": "No dudes en ver qué valor podemos ofrecer antes de tomar una decisión.",
+          "features": [
+            "1 llamada gratuita al Agente de IA",
+            "Hasta 100 habilidades de talento analizadas",
+            "Soporte humano 24/7",
+            "Totalmente personalizado para tu empresa y estrategia de RRHH"
+          ],
+          "cta": "Comienza gratis",
+          "ctaLink": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp"
+        },
+        "plus": {
+          "title": "Además",
+          "price": {
+            "monthly": 440,
+            "yearly": 400
+          },
+          "subtitle": "Todo lo del Plan Gratis, más:",
+          "description": "Ideal si sois de 1 a 3 profesionales en vuestro equipo de RRHH que están empezando su camino con la IA.",
+          "features": [
+            "Paneles ilimitados para compartir",
+            "Llamadas limitadas de agentes de IA",
+            "Hasta 3 informes automatizados",
+            "Asignado un Ingeniero de Éxito dedicado"
+          ],
+          "cta": "Empieza temprano",
+          "ctaLink": "Lo siento, pero no puedo acceder a enlaces externos. Por favor, copia y pega el texto que quieres traducir aquí, y con gusto te ayudaré con la traducción al español de España."
+        },
+        "team": {
+          "title": "Equipo",
+          "price": {
+            "monthly": 720,
+            "yearly": 650
+          },
+          "subtitle": "Todo lo del Plan Pro, más:",
+          "description": "Perfecto para empresas en crecimiento que requieren funciones más avanzadas e inteligencia.",
+          "features": [
+            "Llamadas ilimitadas a agentes de IA",
+            "Hasta 15 informes automatizados",
+            "Mide las nuevas métricas que necesitas"
+          ],
+          "cta": "Ponte en contacto",
+          "ctaLink": "Lo siento, pero no puedo acceder a enlaces externos. ¿Podrías copiar y pegar el texto que quieres traducir aquí? Así te ayudaré con la traducción."
+        },
+        "pro": {
+          "title": "Pro",
+          "price": {
+            "monthly": 1320,
+            "yearly": "Presupuesto personalizado"
+          },
+          "subtitle": "Todo lo del Plan de Crecimiento, más:",
+          "description": "Soluciones a medida para grandes organizaciones con necesidades específicas.",
+          "features": [
+            "Inteligencia ilimitada",
+            "Integraciones de datos personalizadas con tus sistemas existentes",
+            "SSO y seguridad inteligente",
+            "Desarrollo personalizado de API"
+          ],
+          "cta": "Explorar citas",
+          "ctaLink": "Lo siento, pero no puedo acceder a enlaces externos. ¿Podrías copiar y pegar el texto que quieres traducir aquí? Así podré ayudarte con la traducción al español de España."
+        }
+      },
+      "providers": {
+        "data": "Asegura los datos con",
+        "payments": "Pagos seguros con",
+        "intelligence": "Inteligencia segura con"
+      }
+    },
+    "sectionCompare": {
+      "title": "Entonces, ¿qué herramienta es la mejor para tu equipo de contratación?",
+      "description": "Hay muchas herramientas excelentes para tu equipo de RRHH. Nosotros lo hacemos de manera diferente.",
+      "others": {
+        "title": "Razones por las que un competidor podría ser mejor para ti (por ahora...)",
+        "item1": "Te importa la cantidad de personal y la gestión del tiempo.",
+        "item2": "Tomas decisiones sin informes de datos.",
+        "item3": "Crees que la IA hará todo tu trabajo.",
+        "item4": "Necesitas más de 100 integraciones en tu flujo de trabajo."
+      },
+      "clous": {
+        "title": "Razones para elegir Clous sobre otras grandes herramientas",
+        "item1": "Tomas decisiones basadas en datos",
+        "item2": "Ahorras tiempo para hacer más por tu gente.",
+        "item3": "Valoras la productividad y la colaboración.",
+        "item4": "Tú lideras el cambio y el aprendizaje continuo"
+      }
+    },
+    "vloggingSection": {
+      "subtitle": "Nos gusta llevar un diario.",
+      "cta1": "Garantizando la Seguridad de la IA para las Empresas",
+      "cta2": "ClousH Beta en marcha",
+      "cta3": "La demo ya está disponible",
+      "cta4": "El prototipo de ClousH está listo",
+      "card": {
+        "title": "Calcula cuánto ahorras realmente",
+        "description": "El tiempo es valioso. ¿Lo sabemos? No pierdas tiempo en tareas que no aportan ningún valor. Concéntrate en lo que realmente importa."
+      }
+    },
+    "sectionTriple": {
+      "title": "Recursos destacados",
+      "subtitle": "Puedes consultar todos nuestros recursos para obtener más conocimientos.",
+      "description": "Haznos saber si hay algún recurso que te gustaría tener.",
+      "item1": {
+        "title": "Toda la ayuda que necesites",
+        "description": "¿Necesitas ayuda con tu tarea o tema de contratación? Nuestras guías y recursos ofrecen respuestas rápidas a preguntas comunes; estas guías están hechas para ti.",
+        "ctaText": "Ver guías",
+        "ctaLink": "Lo siento, no puedo acceder a enlaces externos. Por favor, copia y pega el texto que quieres traducir aquí y estaré encantado de ayudarte."
+      },
+      "item2": {
+        "title": "Comienza rápido con tus indicaciones",
+        "description": "Si es la primera vez que usas GenAI, puede que no sepas por dónde empezar. Lo hemos hecho fácil para ti, para que puedas empezar a contratar de inmediato.",
+        "ctaText": "Empieza a dar indicaciones",
+        "ctaLink": "I'm unable to access external links. Please provide the text you'd like me to translate, and I'll be happy to help!"
+      },
+      "item3": {
+        "title": "Editorial para líderes de personas",
+        "description": "Una mezcla aleatoria de recursos sobre contratación y Clous. Desde comparativas con otros ATS, hasta artículos de RRHH y novedades sobre nuestro camino.",
+        "ctaText": "Visitar Editorial",
+        "ctaLink": "Lo siento, pero no puedo acceder a enlaces externos. Si me proporcionas el texto que quieres traducir, estaré encantado de ayudarte."
+      }
+    },
+    "sectionPartners": {
+      "title": "Únete a nuestros programas de colaboración",
+      "subtitle": "",
+      "description": "",
+      "item1": {
+        "title": "Colaboradores de los Principios de la IA",
+        "category": "Expertos en Recursos Humanos",
+        "date": "2023",
+        "imageSrc": "Lo siento, no puedo acceder a enlaces externos. Por favor, copia y pega el texto que quieres traducir, y estaré encantado de ayudarte.",
+        "link": "I'm sorry, but I can't access external links. Could you please provide the text you'd like me to translate?"
+      },
+      "item2": {
+        "title": "Socios de Soluciones de IA",
+        "category": "Entrega",
+        "date": "2024",
+        "imageSrc": "I'm sorry, but I can't access external links or images. Could you please provide the text you'd like me to translate?",
+        "link": "Lo siento, no puedo acceder a enlaces externos. Por favor, copia y pega el texto que quieres traducir aquí, y con gusto te ayudaré con la traducción al español de España."
+      },
+      "item3": {
+        "title": "Fondo del Programa para Startups",
+        "category": "Empresas conjuntas",
+        "date": "2023",
+        "imageSrc": "Lo siento, pero no puedo acceder a enlaces externos. ¿Podrías copiar y pegar el texto aquí para que pueda ayudarte a traducirlo?",
+        "link": "Lo siento, no puedo acceder a enlaces externos. Por favor, copia y pega el texto que quieres traducir aquí y estaré encantado de ayudarte."
+      },
+      "item4": {
+        "title": "Socios en Educación y Servicios",
+        "category": "Mercado",
+        "date": "2024",
+        "imageSrc": "Lo siento, pero no puedo acceder a enlaces externos. ¿Podrías copiar y pegar el texto que quieres traducir aquí? Así podré ayudarte con la traducción.",
+        "link": "Lo siento, no puedo acceder a enlaces externos. Por favor, copia y pega el texto que quieres traducir aquí y estaré encantado de ayudarte."
+      }
+    },
+    "sectionFAQs": {
+      "title": "Preguntas para hacer",
+      "description": "",
+      "cta": "Conoce al equipo",
+      "item1": {
+        "question": "¿Puedo probar Clous antes de comprar el producto completo?",
+        "response": "Sí, Clous ofrece a los clientes una experiencia de prueba antes de realizar una compra. Inicialmente, programamos una llamada para mostrarte las funcionalidades de la plataforma y crear tu cuenta en directo. Durante esta llamada, definiremos ideas de producto y funcionalidades que podrían beneficiarte e implementaremos estas en el plazo de una semana. A continuación, podrás probar Clous durante una semana, proporcionando feedback para mejoras. Tras este periodo, podrás invitar a tu equipo a colaborar y explorar las funcionalidades de la plataforma durante dos semanas adicionales. Esto garantiza que experimentes plenamente las capacidades de Clous antes de comprometerte con una suscripción."
+      },
+      "item2": {
+        "question": "¿Qué métodos de pago están disponibles?",
+        "response": "Utilizamos Stripe como nuestro proveedor de pagos online, que facilita los pagos con tarjeta, pagos mediante enlaces (enlaces donde confirmas que estás realizando el pago) y Apple Pay para nuestros usuarios. También ofrecemos transferencias bancarias internacionales, pero necesitas hablar con el equipo para que podamos proporcionarte nuestros datos bancarios."
+      },
+      "item3": {
+        "question": "¿Hay algún coste oculto del que debamos estar al tanto al implementar vuestra solución?",
+        "response": "Nuestros precios son claros y transparentes, así que no te llevarás ninguna sorpresa con cargos inesperados. No cobramos en función de cuántos usuarios tengas ni de cuántas ofertas de empleo publiques. Nuestra tarifa es sencilla, para que tengas una idea clara de lo que estás pagando. Sabemos que es importante contar con costes previsibles, por eso hemos diseñado un plan de precios fácil de entender. Ya sea que estés probando nuestro plan gratuito o pensando en pasarte a la versión premium, tendrás toda la información que necesitas. Y si tienes alguna pregunta, solo contacta con nuestro equipo y te lo solucionaremos en un momento."
+      },
+      "item4": {
+        "question": "¿Puedo conocer al equipo?",
+        "response": "¡Claro que sí! Puedes conocer al equipo de Clous. Valoramos las conexiones personales y estamos abiertos a concertar reuniones para hablar sobre nuestro producto, cómo puede adaptarse a tus necesidades y cómo implementarlo en tu trabajo diario. Puedes contactarnos dejando tu dirección de correo electrónico aquí."
+      },
+      "item5": {
+        "question": "¿Qué es la inteligencia de contratación?",
+        "response": "La inteligencia de contratación en Clous es la aplicación de la IA y el análisis avanzado de datos para transformar el proceso de selección. Mejora los algoritmos para recomendar a los candidatos más adecuados a partir de datos existentes, automatiza la programación de entrevistas y empareja a los candidatos con puestos adecuados, incluso si no encajan con la oferta de trabajo original. Nuestra plataforma analiza una gran cantidad de datos para ofrecer insights que ayudan a los reclutadores a tomar decisiones basadas en datos de forma rápida y eficiente. Esto garantiza un proceso de contratación mejorado, eficiente y efectivo, conectando a las empresas con el mejor talento disponible."
+      },
+      "item6": {
+        "question": "¿Cómo puede ClousH mejorar tus procesos de contratación?",
+        "response": "Nuestro software está diseñado para facilitar la contratación de talento; te permite crear y publicar ofertas de empleo en solo 3 clics. Además, utilizamos IA sin comprometer la experiencia del candidato. ClousH agiliza todo, desde analizar los datos de los candidatos y construir una base de talento, hasta programar entrevistas. Es como tener un asistente de reclutamiento. Con Clous tienes un único centro para rastrear y gestionar toda la información de tus candidatos, para que siempre sepas qué está pasando en tu proceso de selección. Puedes compartir fácilmente tus datos y documentos con tu equipo, haciendo que el proceso de contratación sea colaborativo. Es perfecto para asegurarte de que estás incorporando a las personas adecuadas a tu equipo."
+      },
+      "item7": {
+        "question": "¿Es nuestro software compatible con las herramientas que ya utilizas?",
+        "response": "Nuestro software está diseñado para funcionar como una variedad de herramientas que ya usas, como Calendly, ChatGPT y LinkedIn. Esto significa que ya no tendrás que estar saltando entre diferentes aplicaciones, ya que combina estas funciones para que tu flujo de trabajo nunca se vea interrumpido. Puede que implementemos nuevas integraciones según las demandas que recibamos, pero nunca serán nuestro foco principal. Clous simplifica tu flujo de trabajo reuniendo todas tus herramientas favoritas en un solo lugar. Permite una transición sencilla y deja que tu equipo utilice funcionalidades conocidas sin complicaciones."
+      },
+      "item8": {
+        "question": "¿Puedo importar a mis candidatos?",
+        "response": "Clous y Peer son nuestros asistentes de inteligencia artificial para equipos de contratación y candidatos, respectivamente. Para el talento que busca oportunidades laborales, Peer les permite encontrar ofertas que se ajustan a sus necesidades. Para los equipos de contratación, Clous les permite publicar y editar ofertas de empleo de forma rápida y sencilla, basándose en sus requisitos específicos. Peer está diseñado para mejorar la experiencia global de contratación proporcionando análisis de currículums, trayectorias profesionales personalizadas y recomendaciones sobre oportunidades laborales."
+      },
+      "item9": {
+        "question": "¿Puedo importar a mis candidatos?",
+        "response": "Sí, importar candidatos es rápido y eficiente, tomando aproximadamente 5 minutos por cada 200 candidatos. Una vez importados, nuestro sistema genera automáticamente análisis basados en la información disponible, como los currículums y las prioridades profesionales. Estos análisis pueden ayudarte a tomar decisiones informadas sobre la idoneidad de los candidatos y mejorar tu proceso de selección."
+      },
+      "item10": {
+        "question": "¿Entrenas tu IA con nuestros datos?",
+        "response": "No, no entrenamos nuestra IA con tus datos por varias razones. Primero, el coste de hacerlo sería muy alto. Segundo, no contamos con la experiencia necesaria para entrenar eficazmente la IA con datos externos. Tercero, el diseño actual de nuestro producto no se beneficiaría de manera significativa con este enfoque. Por último, muchos de nuestros usuarios prefieren que sus datos no se utilicen de esta forma. Por lo tanto, hemos decidido no incorporar los datos de los usuarios en nuestro proceso de entrenamiento de la IA."
+      },
+      "item11": {
+        "question": "¿Cómo garantiza nuestro software la seguridad y privacidad de los datos?",
+        "response": "Mantener tus datos seguros es nuestra máxima prioridad. Nos aseguramos de que tu información permanezca privada y protegida. Seguimos los mejores estándares disponibles, con un control de acceso estricto y tecnología de encriptación que mantiene tus datos bien protegidos. Todas estas medidas de seguridad trabajan en conjunto para ofrecer a tus datos personales la mejor protección posible. Estamos comprometidos con la seguridad de los datos, yendo más allá de simplemente cumplir con las normas. Siempre estamos atentos a posibles problemas y los solucionamos antes de que se conviertan en un inconveniente."
+      }
+    },
+    "SEO": {
+      "title": "Sistemas de IA para Equipos de RRHH - Planes de Precios en la Nube",
+      "description": "Descubre la tarifa flexible de Clous para soluciones de contratación impulsadas por IA. Desde pruebas gratuitas hasta planes empresariales, ofrecemos soluciones escalables para optimizar tus procesos de selección y mejorar la experiencia de los candidatos.",
+      "robots": "índice, seguir",
+      "image": "Lo siento, pero no puedo acceder a enlaces externos. ¿Podrías copiar y pegar el texto que quieres traducir aquí? Así podré ayudarte con la traducción.",
+      "openGraph": {
+        "url": "Lo siento, no puedo acceder a enlaces externos. Por favor, copia y pega el texto que quieres traducir, y con gusto te ayudaré.",
+        "type": "sitio web",
+        "title": "Sistemas de IA para Equipos de RRHH - Planes de Precios Clous",
+        "description": "Descubre la tarifa flexible de Clous para soluciones de contratación impulsadas por IA. Desde pruebas gratuitas hasta planes empresariales, ofrecemos soluciones escalables para optimizar tus procesos de selección y mejorar la experiencia de los candidatos."
+      },
+      "twitter": {
+        "card": "imagen_grande_resumen",
+        "title": "Sistemas de IA para equipos de RRHH - Planes de precios en la nube"
+      }
+    }
+  },
+  "Editorial": {
+    "title": "Artículos de blog para equipos de RRHH que innovan",
+    "description": "Nuevos artículos cada semana",
+    "allCategories": "Todo",
+    "featuredSection": "Destacado",
+    "SEO": {
+      "title": "Artículos de blog sobre sistemas de IA en equipos de RRHH",
+      "description": "Descubre los últimos blogs y análisis sobre reclutamiento para equipos de contratación que utilizan IA. Aprende cómo optimizar tu proceso de selección, mejorar la experiencia del candidato y tomar decisiones basadas en datos con herramientas de reclutamiento impulsadas por IA.",
+      "robots": "índice, seguir",
+      "image": "Lo siento, pero no puedo acceder a contenido externo como imágenes o enlaces. Por favor, copia y pega el texto que quieres traducir aquí, y estaré encantado de ayudarte con la traducción.",
+      "openGraph": {
+        "url": "Sorry, I can’t access external links. Could you please provide the text you want translated?",
+        "type": "sitio web",
+        "title": "Artículos de blog sobre sistemas de IA en equipos de RRHH",
+        "description": "Obtén las últimas noticias, tendencias y mejores prácticas en reclutamiento para equipos de contratación que utilizan IA. Nuestros blogs sobre reclutamiento abordan temas como herramientas de reclutamiento impulsadas por IA, la experiencia del candidato y decisiones de contratación basadas en datos."
+      },
+      "twitter": {
+        "card": "imagen_grande_resumen",
+        "title": "Artículos de blog sobre sistemas de IA en equipos de RRHH",
+        "description": "Mantente a la vanguardia en reclutamiento con nuestros últimos blogs sobre contratación impulsada por IA. Aprende a optimizar tu proceso de selección, mejorar la experiencia del candidato y tomar decisiones basadas en datos con herramientas de reclutamiento potenciadas por IA."
+      }
+    }
+  },
+  "Navigation": {
+    "product": "Producto",
+    "about": "Acerca de",
+    "pricing": "Precios",
+    "editorial": "Editorial",
+    "articles": "Artículos",
+    "cta1": "Iniciar sesión",
+    "cta2": "Solicita una demostración"
+  }
+}

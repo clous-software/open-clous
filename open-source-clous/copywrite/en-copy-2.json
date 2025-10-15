@@ -1,0 +1,1224 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Avoid data work to focus on people work",
+      "subtitle": "Hello world!",
+      "description": "The AI-first platform to align business with talent strategy, architect people's work and make skills-first decisions — built for fast-moving teams.",
+      "cta": "Book a demo",
+      "cta2": "View launch"
+    },
+    "sectionSentence": {
+      "title": "In a world where talent is the #1 driver of growth, managing their data became a job in itself. We created the platform where an AI system handles the data work so you can focus on doing more for your people."
+    },
+    "sectionPanel": {
+      "title": "Like an HRIS, but actually intelligent",
+      "description": "If you're drowning in talent data instead of developing talent, we built this for you.",
+      "title1": "Stop hiring based on fancy school names and start focusing on what people can actually do. Build a team that performs, not one that looks good on paper.",
+      "title2": "Align business goals with talent strategy",
+      "description2": "Get insights from your talent data and make better decisions.",
+      "title3": "Less data work, more people work",
+      "description3": "Avoid the manual HRIS updates and endless data entry. Spend your time doing what you're actually good at—helping people grow.",
+      "title4": "Talent re-discovered by you",
+      "description4": "Uncover the skills already hiding in your organization. Make smarter decisions and create experiences that feel personal, not corporate.",
+      "title5": "Human-first, always",
+      "description5": "Our founders lived through terrible candidate experiences and swore to do better. Real people deserve real experiences, not robotic processes.",
+      "title6": "Know what your leaders actually want",
+      "description6": "Team leaders are not HR professionals. But we make it easy for them to understand the needs of their teams and act on them.",
+      "cta": "Try it yourself"
+    },
+    "sectionWho": {
+      "title": "Built to elevate your People team",
+      "subtitle": "Involve your entire organization",
+      "cta": "Get in touch",
+      "item1": {
+        "title": "HRBPs that need to align talent with business goals",
+        "description": "Align business growth goals with your talent team. Plan your talent needs ahead to ensure you have the right talent at the right time."
+      },
+      "item2": {
+        "title": "Recruiters that care about candidate experience",
+        "description": "Build great relationships with your candidates. Make the hiring process more human. Choose the right talent for your skills needs."
+      },
+      "item3": {
+        "title": "People Ops that manage lots of talent data and processes",
+        "description": "Help your HR team adopt a data-first mindset. Get insights from your talent data and make better decisions."
+      },
+      "item4": {
+        "title": "Team leaders involved in talent decisions",
+        "description": "Involve your team leaders in talent decisions. Help them understand the needs of their teams and take them to action."
+      }
+    },
+    "sectionOne": {
+      "sectionItem": {
+        "title1": "Drive useful insights from every piece of data",
+        "subtitle1": "Hello world!",
+        "description1": "Talent is the new key driver of growth. And data is super valuable with AI. But you still have lots of hiring and candidate data scattered, unused or unreported. We bring to life that Google Sheets with more than 2K candidates you never use. That Hiring report no stakeholder read.",
+        "cta1": "Try it yourself"
+      },
+      "sectionItem2": {
+        "title2": "Built for the People team",
+        "subtitle2": "Hello world!",
+        "description2": "The Engineering Manager asks you for 2 software developers for the next week. Mission impossible. You try to do it anyways. It takes you one month, candidate experience could be better and the new hires leave in 3 months. If you could only align all the stakeholders around your hiring needs... get rid of the paperwork, and provide a thoughtful hiring experience, right? Involve your entire organization with Clous.",
+        "cta2": "Try it yourself"
+      },
+      "sectionItem3": {
+        "title3": "Built for the People team",
+        "subtitle3": "Hello world!",
+        "description3": "The Engineering Manager asks you for 2 software developers for the next week. Mission impossible. You try to do it anyways. It takes you one month, candidate experience could be better and the new hires leave in 3 months. If you could only align all the stakeholders around your hiring needs... get rid of the paperwork, and provide a thoughtful hiring experience, right? Involve your entire organization with Clous.",
+        "cta3": "Try it yourself"
+      }
+    },
+    "sectionSecurity": {
+      "title": "Your security is first",
+      "subtitle": "Hello world!",
+      "description": "From mitigating bias to data encryption, we push for the highest standards of security and safety for the deployment of AI.",
+      "cta": "Reach out to our engineers",
+      "item1": "Privacy-first values",
+      "description1": "We build with privacy in mind. We anonymize candidate data in job applications and employee data in forms.",
+      "item2": "Your data is yours",
+      "description2": "We make it easy for you to leave us for another tool. Your data is yours to keep.",
+      "item3": "Host wherever you need",
+      "description3": "We host your data wherever you need. We can host it in your own infrastructure or in our own cloud.",
+      "item4": "Transparency-first",
+      "description4": "We use multiple open-source libraries and AI models, and we also contribute to the open-source community.",
+      "item5": "Data residency guarantees",
+      "description5": "We are transparent about our data processing and our AI system. We give you the tools to understand how we process your data."
+    },
+    "sectionMain": {
+      "title": "Your skills needs, always in sync with your business goals",
+      "subtitle": "Hello world!",
+      "description": "Assessing skills is hard. Monitoring them is even harder. We help you understand your skills needs and align them with your business goals and talent strategy.",
+      "cta": "Understand skills validation",
+      "item1": {
+        "title": "Build trust with business leaders",
+        "description": "Report your skills needs and talent data to your business leaders. Get their buy-in and support to take action.",
+        "ctaText": "Save time reporting",
+        "ctaLink": "#",
+        "tags": [
+          {
+            "text": "Skills-driven organizations"
+          },
+          {
+            "text": "Business aligned with talent needs"
+          },
+          {
+            "text": "Skills analytics and decision making"
+          }
+        ]
+      },
+      "item2": {
+        "title": "Re-discover your talent skills",
+        "description": "Understand what skills your talent has. Connect the right people to the right jobs.",
+        "ctaText": "How skills intelligence works",
+        "ctaLink": "#",
+        "faqs": [
+          {
+            "question": "How does re-discovering talent work?",
+            "answer": "Re-discovering talent involves continuously assessing your employees' skills and experiences to uncover hidden strengths that align with new roles, projects, or business needs."
+          },
+          {
+            "question": "Why understanding talent skills is important?",
+            "answer": "Understanding talent skills helps businesses place people in the right roles, boost productivity, reduce turnover, and make better decisions on training, development, and recruitment strategies."
+          },
+          {
+            "question": "What is skills intelligence?",
+            "answer": "Skills intelligence is the ability to understand what skills your talent has and how they can be used to achieve business goals."
+          }
+        ]
+      },
+      "item3": {
+        "title": "Make the most out of your talent data",
+        "description": "Who are the marketing employees with experience in Software development? Just ask for the talent data you need—no more endless scrolling.",
+        "ctaText": "How Clous saves time with talent data",
+        "ctaLink": "#",
+        "subItems": [
+          {
+            "title": "Useful data for your talent needs"
+          },
+          {
+            "title": "Skills that are continuously evolving"
+          },
+          {
+            "title": "Data that is always up to date"
+          }
+        ]
+      }
+    },
+    "sectionProblems": {
+      "title": "The problem with talent data today",
+      "description": "From data collection to reporting, give your team everything they need to make decisions quickly, save time and help people grow.",
+      "item1": {
+        "title": "Nobody likes it",
+        "description": "Why spend days analyzing and building reports when you can do it in 2 clicks? Why update your candidate notes when you have interview transcripts?"
+      },
+      "item2": {
+        "title": "Lack of relevant data",
+        "description": "Skills are the way to measure talent, but they are hard to measure. We help you gain control of your skills to understand your talent."
+      },
+      "item3": {
+        "title": "Difficult to understand",
+        "description": "Data is hard to understand. Specially the more technical it gets, the more difficult it is to make decisions."
+      },
+      "item4": {
+        "title": "Under-utilized data",
+        "description": "AI helps re-discover talent skills, re-surfacing great talent that you hardly knew you had."
+      }
+    },
+    "sectionSetup": {
+      "title": "Set up in less than an hour",
+      "item1": {
+        "title": "Import your talent data in clicks",
+        "description": "Import your talent data in 3 clicks. We support all the popular formats, including Excel, images and PDFs."
+      },
+      "item2": {
+        "title": "Go skills-first since day one",
+        "description": "As soon as your talent data is in our system, you can start making decisions based on skills."
+      },
+      "item3": {
+        "title": "We do all the heavy lifting of managing data",
+        "description": "From updating it, to delivering new information and insights that you can easily report with team leaders."
+      }
+    },
+    "sectionCTA": {
+      "title": "Save time with AI agents, do more for your people",
+      "description": "Managing talent data takes up 90% of your time. And it's not aligned with your business goals.",
+      "cta": "Get in touch",
+      "link": "#"
+    },
+    "teamSection": {
+      "title": "Get your time back, do more for your people",
+      "description": "Clous manages all your talent data and processes to make decisions and take action. No more silos. AI Agents working 24/7 for you.",
+      "cards": [
+        {
+          "title": "Hiring and selection",
+          "status": "Live",
+          "description": "We re-invent the hiring process from job description to onboarding. We help you select the best talent and ensure they fit your skills needs.",
+          "tags": [
+            "Recruitment",
+            "Onboarding"
+          ]
+        },
+        {
+          "title": "Skills and analytics",
+          "status": "Live",
+          "description": "We help you understand your talent skills and actively update them so you don't have to.",
+          "tags": [
+            "Skills",
+            "Analytics"
+          ]
+        },
+        {
+          "title": "Learning and development",
+          "status": "Live",
+          "description": "Personalized learning paths for your talent. Understand their skills and help them grow.",
+          "tags": [
+            "Engagement",
+            "Training"
+          ]
+        },
+        {
+          "title": "Performance and insights",
+          "status": "Soon",
+          "description": "Gain valuable insights into team performance and employee development. Monitor progress, identify areas for growth, and make better decisions.",
+          "tags": [
+            "Performance",
+            "Analytics"
+          ]
+        }
+      ]
+    },
+    "features": {
+      "title": "What you can find inside Clous",
+      "description": "Clous is like an intelligent HRIS that helps you manage your talent data and processes. It's a platform that helps you do more for your people.",
+      "item1": {
+        "title": "Personalized recommendations",
+        "description": "Understand who is best for your training programs, new job roles, or upcoming projects, that fit your team's vibe and fill those annoying skill gaps."
+      },
+      "item2": {
+        "title": "Side-by-side showdowns",
+        "description": "Compare talent, roles, and opportunities like you're judging a reality show—but with actual data that helps you pick the winners."
+      },
+      "item3": {
+        "title": "Skills, always up to date",
+        "description": "Watch your team's skills evolve in real-time. No more wondering if someone still knows that thing they claimed to know two years ago."
+      },
+      "item4": {
+        "title": "Personalized learning paths",
+        "description": "Discover killer courses and certifications from around the world, handpicked for your team's growth goals and individual career journeys."
+      },
+      "item5": {
+        "title": "Instant visual magic",
+        "description": "Turn boring HR numbers into gorgeous charts and dashboards with just a few words. Data visualization that doesn't suck."
+      },
+      "item6": {
+        "title": "Career path alignment",
+        "description": "Beautiful, interactive maps of career journeys, team connections, and org structure that make complex relationships crystal clear."
+      },
+      "item7": {
+        "title": "Context-aware everything",
+        "description": "Workflows that get it. Every interaction understands your company culture, business goals, and what each person actually needs."
+      },
+      "item8": {
+        "title": "Reports that write themselves",
+        "description": "Transform interviews, surveys, and assessments into polished reports automatically. More strategic thinking, less admin hell."
+      }
+    },
+    "SEO": {
+      "title": "Clous: AI Agents for HR Teams",
+      "description": "Talent data and processes in the Era of AI become the source of strategic insights and decisions. Clous is your technology partner to make the most of your HR teams.",
+      "robots": "index, follow",
+      "image": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+      "openGraph": {
+        "url": "https://www.clousai.com",
+        "type": "website",
+        "title": "Clous: AI Agents for HR Teams",
+        "description": "Talent data and processes in the Era of AI become the source of strategic insights and decisions. Clous is your technology partner to make the most of your HR teams."
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Clous: AI Agents for HR Teams",
+        "description": "Talent data and processes in the Era of AI become the source of strategic insights and decisions. Clous is your technology partner to make the most of your HR teams.",
+        "image": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Clous",
+        "alternateName": "Clous AI HR Platform",
+        "description": "AI-powered HR platform for skills management and talent analytics that helps organizations align business goals with talent strategy, automate skills assessment, and reduce manual HR data work by 90%.",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": "Human Resources Management Software",
+        "operatingSystem": "Web-based",
+        "url": "https://www.clousai.com",
+        "downloadUrl": "https://www.clousai.com",
+        "softwareVersion": "1.0",
+        "releaseNotes": "AI-first platform for talent management and skills intelligence",
+        "author": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "price": "Contact for pricing",
+          "priceValidUntil": "2025-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.clousai.com/pricing"
+        },
+        "featureList": [
+          "AI-powered skills assessment",
+          "Talent analytics and reporting",
+          "Skills-based workforce planning",
+          "Automated talent data management",
+          "Business goal alignment",
+          "Candidate experience optimization",
+          "Real-time skills intelligence",
+          "HR process automation",
+          "Team leader talent insights",
+          "Privacy-first data handling",
+          "SSO authentication",
+          "Custom data residency"
+        ],
+        "screenshot": "https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "127",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "softwareRequirements": "Web browser with JavaScript enabled",
+        "memoryRequirements": "Minimal system requirements",
+        "storageRequirements": "Cloud-based storage",
+        "processorRequirements": "Any modern processor",
+        "supportingData": "Enterprise-grade security and compliance",
+        "installUrl": "https://www.clousai.com/get-started",
+        "softwareHelp": "https://www.clousai.com/support",
+        "releaseDate": "2024-01-01",
+        "dateModified": "2025-06-13",
+        "keywords": "AI HR software, talent management, skills assessment, workforce planning, HR analytics, talent intelligence, skills-based hiring, employee development",
+        "audience": {
+          "@type": "BusinessAudience",
+          "audienceType": "HR professionals, People Operations teams, Talent Acquisition specialists, Business leaders"
+        },
+        "usageInfo": "Enterprise HR teams looking to automate talent management and skills assessment processes",
+        "maintainer": {
+          "@type": "Organization",
+          "name": "Clous Development Team",
+          "url": "https://www.clousai.com/about"
+        },
+        "copyrightHolder": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "copyrightYear": "2025",
+        "license": "https://www.clousai.com/terms/terms-of-use/terms-of-use",
+        "isAccessibleForFree": false,
+        "hasPart": [
+          {
+            "@type": "SoftwareApplication",
+            "name": "Skills Intelligence Module",
+            "description": "AI-powered skills assessment and discovery"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Talent Analytics Dashboard",
+            "description": "Real-time insights and reporting for HR teams"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Workforce Planning Tools",
+            "description": "Strategic talent planning aligned with business goals"
+          }
+        ]
+      }
+    }
+  },
+  "Clous": {
+    "hero": {
+      "title": "Skills-first HRIS for fast-moving teams",
+      "subtitle": "",
+      "description": "x10 the productivity of your HR team with Clous, the AI system that helps you do more for your people.",
+      "cta": "Help talent grow",
+      "subtitle1": "AI Agents",
+      "description1": "Let AI agents do the heavy lifting of your work.",
+      "subtitle2": "Analysis and reporting",
+      "description2": "Build and share dashboards in minutes, not days.",
+      "subtitle3": "Hiring intelligence",
+      "description3": "Get the best insights from your hiring data.",
+      "subtitle4": "Personalized learning",
+      "description4": "Get the right information, at the right time."
+    },
+    "featureShowcase": {
+      "title": "Align your business goals with evolving skills",
+      "description": "Find your way to align what your company needs with what your people can actually do. Real insights, real alignment, real results.",
+      "cta": "Get started",
+      "feature1": {
+        "title": "Skills-first HR model",
+        "description": "Use skills to match candidates to jobs, to report on talent needs, and to understand the skills of your team to make the best decisions.",
+        "cta": "Learn about skills management",
+        "ctaLink": "#"
+      },
+      "feature2": {
+        "title": "Reporting made easy",
+        "description": "Preparing reports for business leaders takes too much time. From the moment you collect the data, to the moment you analyze and build it.",
+        "cta": "Learn how reports work",
+        "ctaLink": "#"
+      },
+      "feature3": {
+        "title": "Re-discover your talent",
+        "description": "Re-discover the skills of your team, using AI to understand what skills your team has and what skills they need to grow.",
+        "cta": "Discover how to save costs hiring",
+        "ctaLink": "#"
+      },
+      "feature4": {
+        "title": "Drive effective collaboration",
+        "description": "When teams stop being productive, the way to handle it is to rethink their structure and processes.",
+        "cta": "Find out about liquid organizations",
+        "ctaLink": "#"
+      },
+      "feature5": {
+        "title": "Deliver a great talent experience",
+        "description": "Candidates and employees are at the heart of our product. Their experience is a top priority for us, and we make it easier for you.",
+        "cta": "How talent experience should look like",
+        "ctaLink": "#"
+      }
+    },
+    "actionSection": {
+      "title": "Take all of this action (and more) with Clous for teams",
+      "action1": "Create a job description for any role",
+      "action2": "Recommend the best candidates for your hiring needs",
+      "action3": "Deliver visual reports to business leaders instantly",
+      "action4": "Get insights from your interview notes",
+      "action5": "Set your hiring goals based on real feedback",
+      "action6": "Create personalized and structured interview questions",
+      "action7": "Take your employer value proposition to a whole other level",
+      "action8": "",
+      "action9": ""
+    },
+    "sectionCTAMedia": {
+      "title": "Save time without compromising the experience",
+      "cta1": "Join our community",
+      "cta2": "Help talent grow"
+    },
+    "sectionOne": {
+      "title1": "Data-driven hiring without the drama",
+      "subtitle1": "",
+      "description1": "Get ahead of those last-minute 'we need five developers NOW' requests. Early insights + team alignment = higher standards and way less chaos.",
+      "cta1": "",
+      "title2": "AI you can actually trust",
+      "subtitle2": "",
+      "description2": "Concerned about AI integrity? Good—you should be. We design every part of our system with safety first, ensuring your talent decisions are powered by AI that's as ethical as it is effective.",
+      "cta2": ""
+    },
+    "sectionNewsletter": {
+      "title": "Skills nerds, reporting for duty",
+      "description": "When Clous first started, we knew nothing about HR. Zero. Zilch. We had to become skills obsessed overnight—and now we're here to share what actually works (and what definitely doesn't).",
+      "cta": "Get in touch"
+    },
+    "SEO": {
+      "title": "AI Agents for HR Teams - Clous Product",
+      "description": "Clous improves your hiring process by collecting your data in one place and delivering insights with AI. Improve your talent experience and processes with Clous.",
+      "robots": "index, follow",
+      "image": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+      "openGraph": {
+        "url": "https://www.clousai.com/clous",
+        "type": "website",
+        "title": "AI Agents for HR Teams - Clous Product",
+        "description": "Clous improves your hiring process by collecting your data in one place and delivering insights with AI. Improve your talent experience and processes with Clous."
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "AI Agents for HR Teams - Clous Product"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Clous",
+        "alternateName": "Clous AI HR Platform",
+        "description": "AI-powered HR platform for skills management and talent analytics that helps organizations align business goals with talent strategy, automate skills assessment, and reduce manual HR data work by 90%.",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": "Human Resources Management Software",
+        "operatingSystem": "Web-based",
+        "url": "https://www.clousai.com",
+        "downloadUrl": "https://www.clousai.com",
+        "softwareVersion": "1.0",
+        "releaseNotes": "AI-first platform for talent management and skills intelligence",
+        "author": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "price": "Contact for pricing",
+          "priceValidUntil": "2025-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.clousai.com/pricing"
+        },
+        "featureList": [
+          "AI-powered skills assessment",
+          "Talent analytics and reporting",
+          "Skills-based workforce planning",
+          "Automated talent data management",
+          "Business goal alignment",
+          "Candidate experience optimization",
+          "Real-time skills intelligence",
+          "HR process automation",
+          "Team leader talent insights",
+          "Privacy-first data handling",
+          "SSO authentication",
+          "Custom data residency"
+        ],
+        "screenshot": "https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "127",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "softwareRequirements": "Web browser with JavaScript enabled",
+        "memoryRequirements": "Minimal system requirements",
+        "storageRequirements": "Cloud-based storage",
+        "processorRequirements": "Any modern processor",
+        "supportingData": "Enterprise-grade security and compliance",
+        "installUrl": "https://www.clousai.com/get-started",
+        "softwareHelp": "https://www.clousai.com/support",
+        "releaseDate": "2024-01-01",
+        "dateModified": "2025-06-13",
+        "keywords": "AI HR software, talent management, skills assessment, workforce planning, HR analytics, talent intelligence, skills-based hiring, employee development",
+        "audience": {
+          "@type": "BusinessAudience",
+          "audienceType": "HR professionals, People Operations teams, Talent Acquisition specialists, Business leaders"
+        },
+        "usageInfo": "Enterprise HR teams looking to automate talent management and skills assessment processes",
+        "maintainer": {
+          "@type": "Organization",
+          "name": "Clous Development Team",
+          "url": "https://www.clousai.com/about"
+        },
+        "copyrightHolder": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "copyrightYear": "2025",
+        "license": "https://www.clousai.com/terms/terms-of-use",
+        "isAccessibleForFree": false,
+        "hasPart": [
+          {
+            "@type": "SoftwareApplication",
+            "name": "Skills Intelligence Module",
+            "description": "AI-powered skills assessment and discovery"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Talent Analytics Dashboard",
+            "description": "Real-time insights and reporting for HR teams"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Workforce Planning Tools",
+            "description": "Strategic talent planning aligned with business goals"
+          }
+        ]
+      }
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "Researching AI applied to HR teams",
+      "description": "Talent is the key asset of any company. Our research is focused on how to help talent grow with skills, HR teams more productive and organizations more aligned with their business goals.",
+      "cta": "Meet the team"
+    },
+    "teamSection": {
+      "title": "Builders who are skills-obsessed",
+      "subtitle": "Our team line-up",
+      "name1": "Alvaro Villalba",
+      "role1": "Co-Founder & CEO",
+      "name2": "Pablo Roig",
+      "role2": "Co-Founder & Product Marketer",
+      "name3": "Pablo Rodriguez",
+      "role3": "Junior Digital Marketer"
+    },
+    "sectionNewsletter": {
+      "title": "",
+      "description": "",
+      "cta": ""
+    },
+    "roadmap": {
+      "title": "Our journey so far",
+      "description": "Our team didn't know anything about HR or hiring teams when we first started. And Generative AI was just new. That's why our team worked super hard to better understand those disciplines.",
+      "cta": "",
+      "item0": {
+        "date": "Aug 25",
+        "title": "v1 Launch",
+        "description": "The real deal. After months of refinement, user feedback, and probably too much coffee, we're launching v1. This isn't just an update—it's the skills platform we always knew we could build."
+      },
+      "item1": {
+        "date": "Apr 25",
+        "title": "v1 Pre-Launch",
+        "description": "Last-minute tweaks, final testing, and that mix of excitement and terror that comes before a major launch. We're putting the finishing touches on everything we learned from v0."
+      },
+      "item2": {
+        "date": "Apr 25",
+        "title": "v1 Pre-Launch",
+        "description": "Users loved what we were building, but we knew we could blow their minds. Back to the drawing board we went—rebuilding, refining, and getting ready to launch something truly game-changing."
+      },
+      "item3": {
+        "date": "Sept 24",
+        "title": "v0 Launch",
+        "description": "Reality check time. Launching v0 taught us everything—what worked, what didn't, and just how hungry the market was for better talent tools. The feedback wasn't always pretty, but it was pure gold."
+      },
+      "item4": {
+        "date": "May 24",
+        "title": "Prototype Launch",
+        "description": "Our first real baby steps into the world. After months of user research and endless testing sessions, we had something recruiters could actually use. Rough around the edges? Absolutely. But it worked."
+      },
+      "item5": {
+        "date": "Nov 23",
+        "title": "Demo Launch",
+        "description": "This was our 'we're serious now' moment. We knew exactly what value we wanted to create and had figured out how to build it. Time to disappear into the engine room and show the world what Clous could become."
+      },
+      "item6": {
+        "date": "Apr 23",
+        "title": "Social Media",
+        "description": "Going social wasn't just about marketing—it was about building our tribe. We knew we couldn't revolutionize talent management without a community that shared our vision. Time to start real conversations."
+      },
+      "item7": {
+        "date": "Mar 23",
+        "title": "Website Updates",
+        "description": "Plot twist: our website wasn't just a website anymore. It became an extension of our product, our values, and our commitment to never settling for 'good enough.' Every pixel mattered."
+      },
+      "item8": {
+        "date": "Feb 23",
+        "title": "Website Launch",
+        "description": "Our digital home was born. Simple, clean, and intuitive—just like we wanted our product to be. Finally, a place where we could properly introduce ourselves and start building relationships with our future users."
+      }
+    },
+    "pressKit": {
+      "title": "Press Kit",
+      "description": "We love media, so we created a Press Kit – a comprehensive resource for media inquiries. Access high-quality visuals, brand assets, and key information to showcase the essence of our organization. Download now for a deeper insight into our journey."
+    },
+    "SEO": {
+      "title": "About Clous: AI Systems for HR Teams and Operations",
+      "description": "Discover how Clous uses AI to improve hiring processes. Our team of young innovators builds technology that empowers hiring teams with data-informed insights and better candidate experiences.",
+      "robots": "index, follow",
+      "image": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+      "openGraph": {
+        "url": "https://www.clousai.com/about",
+        "type": "website",
+        "title": "About Clous: AI Systems for HR Teams and Operations",
+        "description": "Discover how Clous uses AI to improve hiring processes. Our team of young innovators builds technology that empowers hiring teams with data-informed insights and better candidate experiences."
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "About Clous: AI Systems for HR Teams and Operations"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Clous",
+        "alternateName": "Clous AI HR Platform",
+        "description": "AI-powered HR platform for skills management and talent analytics that helps organizations align business goals with talent strategy, automate skills assessment, and reduce manual HR data work by 90%.",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": "Human Resources Management Software",
+        "operatingSystem": "Web-based",
+        "url": "https://www.clousai.com",
+        "downloadUrl": "https://www.clousai.com",
+        "softwareVersion": "1.0",
+        "releaseNotes": "AI-first platform for talent management and skills intelligence",
+        "author": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "price": "Contact for pricing",
+          "priceValidUntil": "2025-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.clousai.com/pricing"
+        },
+        "featureList": [
+          "AI-powered skills assessment",
+          "Talent analytics and reporting",
+          "Skills-based workforce planning",
+          "Automated talent data management",
+          "Business goal alignment",
+          "Candidate experience optimization",
+          "Real-time skills intelligence",
+          "HR process automation",
+          "Team leader talent insights",
+          "Privacy-first data handling",
+          "SSO authentication",
+          "Custom data residency"
+        ],
+        "screenshot": "https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "127",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "softwareRequirements": "Web browser with JavaScript enabled",
+        "memoryRequirements": "Minimal system requirements",
+        "storageRequirements": "Cloud-based storage",
+        "processorRequirements": "Any modern processor",
+        "supportingData": "Enterprise-grade security and compliance",
+        "installUrl": "https://www.clousai.com/get-started",
+        "softwareHelp": "https://www.clousai.com/support",
+        "releaseDate": "2024-01-01",
+        "dateModified": "2025-06-13",
+        "keywords": "AI HR software, talent management, skills assessment, workforce planning, HR analytics, talent intelligence, skills-based hiring, employee development",
+        "audience": {
+          "@type": "BusinessAudience",
+          "audienceType": "HR professionals, People Operations teams, Talent Acquisition specialists, Business leaders"
+        },
+        "usageInfo": "Enterprise HR teams looking to automate talent management and skills assessment processes",
+        "maintainer": {
+          "@type": "Organization",
+          "name": "Clous Development Team",
+          "url": "https://www.clousai.com/about"
+        },
+        "copyrightHolder": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "copyrightYear": "2025",
+        "license": "https://www.clousai.com/terms/terms-of-use",
+        "isAccessibleForFree": false,
+        "hasPart": [
+          {
+            "@type": "SoftwareApplication",
+            "name": "Skills Intelligence Module",
+            "description": "AI-powered skills assessment and discovery"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Talent Analytics Dashboard",
+            "description": "Real-time insights and reporting for HR teams"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Workforce Planning Tools",
+            "description": "Strategic talent planning aligned with business goals"
+          }
+        ]
+      }
+    }
+  },
+  "Pricing": {
+    "hero": {
+      "title": "One price. Unlimited employees. All features included. Zero hidden fees.",
+      "description": "Unlimited employees and full feature access at one predictable price. Zero implementation fees. No surprise charges when you grow your business.",
+      "cta": "Get in touch",
+      "link": "https://www.clous.app/ext/getintouch",
+      "offer": "2 months off in yearly plans",
+      "pricing": {
+        "sliderLabel": "Number of seats",
+        "periods": {
+          "monthly": "Monthly",
+          "yearly": "Yearly (10% off)",
+          "threeyears": "3 Years (20% off)"
+        },
+        "guarantee": "90-day money-back guarantee included with yearly and 3-year plans.",
+        "aiCreditsNote": "* All have 100M AI credits per month included, but then €10 per extra 1M credits.",
+        "tiers": [
+          {
+            "name": "Starter",
+            "minSeats": 1,
+            "maxSeats": 2,
+            "pricePerSeat": 980,
+            "notes": [
+              "Zero implementation fees",
+              "All modules and features included",
+              "As many employees as you need",
+              "Dedicated Success engineer",
+              "Additional consulting services at no cost"
+            ]
+          },
+          {
+            "name": "Growth",
+            "minSeats": 3,
+            "maxSeats": 7,
+            "pricePerSeat": 760,
+            "notes": []
+          },
+          {
+            "name": "Scale",
+            "minSeats": 8,
+            "maxSeats": 20,
+            "pricePerSeat": 580,
+            "notes": [
+              "Custom data integrations with your existing systems",
+              "SSO and zero-trust security"
+            ]
+          },
+          {
+            "name": "Enterprise",
+            "minSeats": 21,
+            "maxSeats": 30,
+            "pricePerSeat": "Custom quote",
+            "notes": [
+              "Unlimited AI credits",
+              "Custom API development"
+            ]
+          }
+        ]
+      },
+      "providers": {
+        "data": "Secure data with",
+        "payments": "Secure payments with",
+        "intelligence": "Safe intelligence with"
+      }
+    },
+    "sectionCompare": {
+      "title": "Which tool actually fits your vibe?",
+      "description": "Plenty of HR tools out there do good work. We just do it differently—and honestly, better for the right teams.",
+      "others": {
+        "title": "Maybe stick with your current tool if you...",
+        "item1": "Headcount is more important than helping talent grow",
+        "item2": "Prefer gut feelings over actual data insights",
+        "item3": "Want AI to replace you entirely instead of giving you superpowers",
+        "item4": "Need every integration known to humanity (even the useless ones)"
+      },
+      "clous": {
+        "title": "Choose Clous if you're ready to...",
+        "item1": "Make decisions backed by real talent intelligence",
+        "item2": "Spend less time on admin, more time on what matters",
+        "item3": "Actually be more productive instead of just talking about it",
+        "item4": "Lead the change instead of waiting for it to happen"
+      }
+    },
+    "vloggingSection": {
+      "subtitle": "We like journaling",
+      "cta1": "Ensuring AI Safety to Enterprises",
+      "cta2": "ClousH Beta Underway",
+      "cta3": "Demo is Now Accessible",
+      "cta4": "ClousH Prototype is Ready",
+      "card": {
+        "title": "Calculate how much you actually save",
+        "description": "Time is valuable. We know that? Don't waste time in task that don't add value any value. Focus on what's really important."
+      }
+    },
+    "sectionTriple": {
+      "title": "Featured resources",
+      "subtitle": "You can view all our resources for more knowledge.",
+      "description": "Let us know if there's any resource you'd like to have.",
+      "item1": {
+        "title": "As much help as you need",
+        "description": "Need help with your hiring task or topic? Our guides and resources provide quick answers to common questions, these guides are made for you.",
+        "ctaText": "View Guides",
+        "ctaLink": "https://www.notion.so/clous-app/Hiring-guides-81ae3877980140e5a272732164f17831"
+      },
+      "item2": {
+        "title": "Quickstart your prompting",
+        "description": "If this is your first time using GenAI, you might not know where to start. We made it easy for you, so you can start hiring right away.",
+        "ctaText": "Start prompting",
+        "ctaLink": "https://clous.substack.com"
+      },
+      "item3": {
+        "title": "Editorial for people leaders",
+        "description": "A random mix of resources about hiring and Clous. From comparing other ATS, to HR articles and updates on our journey.",
+        "ctaText": "Visit Editorial",
+        "ctaLink": "https://www.clousai.com/en/editorial"
+      }
+    },
+    "sectionPartners": {
+      "title": "Join our partnership programs",
+      "subtitle": "",
+      "description": "",
+      "item1": {
+        "title": "AI Principles Collaborators",
+        "category": "HR Experts",
+        "date": "2023",
+        "imageSrc": "https://clous.s3.eu-west-3.amazonaws.com/images/partners/Co-create.jpeg",
+        "link": "https://clous-app.notion.site/Hiring-Co-creators-68e07ddff8da453daa70a2ad573852e9?pvs=4"
+      },
+      "item2": {
+        "title": "AI Solutions Partners",
+        "category": "Delivery",
+        "date": "2024",
+        "imageSrc": "https://clous.s3.eu-west-3.amazonaws.com/images/partners/Solutions.jpeg",
+        "link": "https://clous-app.notion.site/Solution-Partners-2b31b5b9fc544bcaa0d9ff986434d7d1?pvs=4"
+      },
+      "item3": {
+        "title": "Startup Program Fund",
+        "category": "Joint ventures",
+        "date": "2023",
+        "imageSrc": "https://clous.s3.eu-west-3.amazonaws.com/images/partners/Startups.jpeg",
+        "link": "https://clous-app.notion.site/Startups-Program-7d3e305c56b8420983adb24b13ca2eac?pvs=4"
+      },
+      "item4": {
+        "title": "Education & Services Partners",
+        "category": "Marketplace",
+        "date": "2024",
+        "imageSrc": "https://clous.s3.eu-west-3.amazonaws.com/images/partners/RecruitmentAgencies.jpeg",
+        "link": "https://clous-app.notion.site/Data-Partners-a17ed8f0609d45d5884c78b75738436e?pvs=4"
+      }
+    },
+    "sectionFAQs": {
+      "title": "Questions to ask",
+      "description": "",
+      "cta": "Meet the team",
+      "item1": {
+        "question": "Can I test Clous before buying the full product?",
+        "response": "Yes, Clous offers customers a trial experience before making a purchase. Initially, we schedule a call to show you the platform's features and create your account live. During this call, we will define product ideas and functionalities that could benefit you and implement these within a week. You can then test Clous for a week, providing feedback for improvements. After this period, you can invite your team to collaborate and explore the platform's features for an additional two weeks. This ensures you fully experience Clous' capabilities before committing to a subscription."
+      },
+      "item2": {
+        "question": "What payment methods are available?",
+        "response": "We use Stripe as our online payment provider, which facilitates card payments, link payments (links where you confirm you are paying), and Apple Pay for our users.We also offer international bank transfers, but you need to speak to the team so we can give you our bank details."
+      },
+      "item3": {
+        "question": "Are there any hidden costs we should be aware of when implementing your solution?",
+        "response": "Our pricing is clear and transparent, so you won't get hit with any surprise fees. We don't charge based on how many users you have or how many job openings you post. Our pricing is simple, giving you a clear idea of what you're paying for. We know it's important to have predictable costs, so we set a pricing plan in an easy way to understand. Whether you're checking out our free plan or thinking about going premium, you'll get all the info you need. And if you have any questions, just hit up our team and we'll sort it out for you in no time."
+      },
+      "item4": {
+        "question": "Can I meet the team?",
+        "response": "For sure! You can meet Clous team. We value personal connections and are open to scheduling meetings to discuss our product and how it can fit your needs and how it can be implemented in your daily work. You can contact us by leaving your email address here."
+      },
+      "item5": {
+        "question": "What is hiring intelligence?",
+        "response": "Hiring intelligence at Clous is the application of AI and advanced data analytics to transform the recruitment process. It improves algorithms to recommend the best-fit candidates from existing data, automates scheduling interviews, and matches candidates to suitable positions even if they don't fit the original job opening. Our platform analyzes a long amount of data to provide insights, helping recruiters make data-driven decisions quickly and efficiently. This ensures an improved, efficient, and effective hiring process while connecting businesses with the best talent available."
+      },
+      "item6": {
+        "question": "How can ClousH improve your hiring processes?",
+        "response": "Our software is designed to make it easy to hire talent, it allows you to create and post job offers in just 3 clicks. Also, we use AI but without compromising candidate experience. ClousH speeds up from looking at candidate data and building a talent pipeline, to scheduling interviews. It's like having a recruitment assistant. With Clous you get a one hub for tracking and managing all your candidate info, so you always know what's going on in your hiring process. You can easily share your data and documents with your team, making your hiring process collaborative. It's perfect for making sure you're getting the right people on your team."
+      },
+      "item7": {
+        "question": "Is our software compatible with existing tools you use?",
+        "response": "Our software is designed to work like a variety of tools you already use, like Calendly, ChatGPT, and LinkedIn. This means no more jumping between different apps, it combines these features to never mess up your workflow. We might be implementing new integrations as you demand them. But it will never be our main focus. Clous simplifies your workflow by bringing all your favorite tools together in one place. It allows for an easy transition and lets your team use familiar functionalities without any hassle."
+      },
+      "item8": {
+        "question": "Can I import my candidates?",
+        "response": "Clous and Peer are our AI assistants for hiring teams and candidates, respectively. For talent looking for job opportunities, Peer allows them to find opportunities that match their needs. For hiring teams, Clous allows them to quickly and easily post and edit job openings based on their specific requirements. Peer is designed to improve the overall hiring experience by providing resume insights, personalized career paths and recommendations on job opportunities."
+      },
+      "item9": {
+        "question": "Can I import my candidates?",
+        "response": "Yes, importing candidates is quick and efficient, taking approximately 5 minutes for every 200 candidates. Once imported, our system automatically generates insights based on the available information, like resumes and career priorities. These insights can help you make informed decisions about candidate suitability and improve your recruitment process."
+      },
+      "item10": {
+        "question": "Do you train your AI with our data?",
+        "response": "No, we don't train our AI with your data for several reasons. First, the cost of doing so would be very high. Second, we lack the expertise to effectively train AI with external data. Third, the current design of our product wouldn't see substantial improvement from this approach. Finally, many of our users prefer not to have their data used in this way. Therefore, we have chosen not to incorporate user data into our AI training process."
+      },
+      "item11": {
+        "question": "How does our software ensure data security privacy?",
+        "response": "Keeping your data safe is our top priority. We make sure your info stays private and secure. We follow the best standards out there, with strict access control and encryption tech that keeps your data locked up tight. All these security measures work together to give your personal data the best protection possible. We're dedicated to data security, going beyond just following the rules. We're always on the lookout for any possible issues and fixing them before they become a problem."
+      }
+    },
+    "startupDiscount": {
+      "title": "Under 30 employees? Get 75% off",
+      "description": "If your startup has less than 30 employees, reach out to us for special discounted rates.",
+      "cta": "Contact Us",
+      "link": "mailto:demo@clous.app?subject=Requesting%20a%20Clous%20Demo&body=Hi%20there%2C%0A%0AI%20was%20looking%20at%20your%20website%20and%20I%20wanted%20to%20talk%20with%20the%20team.%20It%27d%20be%20awesome%20if%20I%20could%20see%20a%20demo.%20%0A%0AI%27m%20available%3A%0A-%20%5BAvailability%201%5D%0A-%20%5BAvailability%202%5D%0A%0ABest%2C%0A%5BYour%20signature%5D"
+    },
+    "SEO": {
+      "title": "AI Systems for HR Teams - Clous Pricing Plans",
+      "description": "Explore Clous's flexible pricing for AI-powered hiring solutions. From free trials to enterprise plans, we offer scalable solutions to optimize your hiring workflows and improve candidate experience.",
+      "robots": "index, follow",
+      "image": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+      "openGraph": {
+        "url": "https://www.clousai.com/pricing",
+        "type": "website",
+        "title": "AI Systems for HR Teams - Clous Pricing Plans",
+        "description": "Explore Clous's flexible pricing for AI-powered hiring solutions. From free trials to enterprise plans, we offer scalable solutions to optimize your hiring workflows and improve candidate experience."
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "AI Systems for HR Teams - Clous Pricing Plans"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Clous",
+        "alternateName": "Clous AI HR Platform",
+        "description": "AI-powered HR platform for skills management and talent analytics that helps organizations align business goals with talent strategy, automate skills assessment, and reduce manual HR data work by 90%.",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": "Human Resources Management Software",
+        "operatingSystem": "Web-based",
+        "url": "https://www.clousai.com",
+        "downloadUrl": "https://www.clousai.com",
+        "softwareVersion": "1.0",
+        "releaseNotes": "AI-first platform for talent management and skills intelligence",
+        "author": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "price": "Contact for pricing",
+          "priceValidUntil": "2025-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.clousai.com/pricing"
+        },
+        "featureList": [
+          "AI-powered skills assessment",
+          "Talent analytics and reporting",
+          "Skills-based workforce planning",
+          "Automated talent data management",
+          "Business goal alignment",
+          "Candidate experience optimization",
+          "Real-time skills intelligence",
+          "HR process automation",
+          "Team leader talent insights",
+          "Privacy-first data handling",
+          "SSO authentication",
+          "Custom data residency"
+        ],
+        "screenshot": "https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "127",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "softwareRequirements": "Web browser with JavaScript enabled",
+        "memoryRequirements": "Minimal system requirements",
+        "storageRequirements": "Cloud-based storage",
+        "processorRequirements": "Any modern processor",
+        "supportingData": "Enterprise-grade security and compliance",
+        "installUrl": "https://www.clousai.com/get-started",
+        "softwareHelp": "https://www.clousai.com/support",
+        "releaseDate": "2024-01-01",
+        "dateModified": "2025-06-13",
+        "keywords": "AI HR software, talent management, skills assessment, workforce planning, HR analytics, talent intelligence, skills-based hiring, employee development",
+        "audience": {
+          "@type": "BusinessAudience",
+          "audienceType": "HR professionals, People Operations teams, Talent Acquisition specialists, Business leaders"
+        },
+        "usageInfo": "Enterprise HR teams looking to automate talent management and skills assessment processes",
+        "maintainer": {
+          "@type": "Organization",
+          "name": "Clous Development Team",
+          "url": "https://www.clousai.com/about"
+        },
+        "copyrightHolder": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "copyrightYear": "2025",
+        "license": "https://www.clousai.com/terms/terms-of-use",
+        "isAccessibleForFree": false,
+        "hasPart": [
+          {
+            "@type": "SoftwareApplication",
+            "name": "Skills Intelligence Module",
+            "description": "AI-powered skills assessment and discovery"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Talent Analytics Dashboard",
+            "description": "Real-time insights and reporting for HR teams"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Workforce Planning Tools",
+            "description": "Strategic talent planning aligned with business goals"
+          }
+        ]
+      }
+    }
+  },
+  "Editorial": {
+    "title": "Blog articles for HR Teams that innovate",
+    "description": "New articles every week",
+    "allCategories": "All",
+    "featuredSection": "Featured",
+    "SEO": {
+      "title": "Blog Articles for AI Systems in HR Teams",
+      "description": "Discover the latest recruitment blogs and insights for hiring teams that use AI. Learn how to optimize your hiring process, improve candidate experience, and make data-driven decisions with AI-powered recruitment tools.",
+      "robots": "index, follow",
+      "image": "https://clous.s3.eu-west-3.amazonaws.com/AI+Agents+and+Systems+for+HR+Teams.webp",
+      "openGraph": {
+        "url": "https://www.clousai.com/en/editorial",
+        "type": "website",
+        "title": "Blog Articles for AI Systems in HR Teams",
+        "description": "Get the latest recruitment news, trends, and best practices for hiring teams that use AI. Our recruitment blogs cover topics such as AI-powered recruitment tools, candidate experience, and data-driven hiring decisions."
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Blog Articles for AI Systems in HR Teams",
+        "description": "Stay ahead of the curve in recruitment with our latest blogs on AI-powered hiring. Learn how to optimize your hiring process, improve candidate experience, and make data-driven decisions with AI-powered recruitment tools."
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Clous",
+        "alternateName": "Clous AI HR Platform",
+        "description": "AI-powered HR platform for skills management and talent analytics that helps organizations align business goals with talent strategy, automate skills assessment, and reduce manual HR data work by 90%.",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": "Human Resources Management Software",
+        "operatingSystem": "Web-based",
+        "url": "https://www.clousai.com",
+        "downloadUrl": "https://www.clousai.com",
+        "softwareVersion": "1.0",
+        "releaseNotes": "AI-first platform for talent management and skills intelligence",
+        "author": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "price": "Contact for pricing",
+          "priceValidUntil": "2025-12-31",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.clousai.com/pricing"
+        },
+        "featureList": [
+          "AI-powered skills assessment",
+          "Talent analytics and reporting",
+          "Skills-based workforce planning",
+          "Automated talent data management",
+          "Business goal alignment",
+          "Candidate experience optimization",
+          "Real-time skills intelligence",
+          "HR process automation",
+          "Team leader talent insights",
+          "Privacy-first data handling",
+          "SSO authentication",
+          "Custom data residency"
+        ],
+        "screenshot": "https://clous.s3.eu-west-3.amazonaws.com/images/Hiring-Made-Easy.webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "127",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "softwareRequirements": "Web browser with JavaScript enabled",
+        "memoryRequirements": "Minimal system requirements",
+        "storageRequirements": "Cloud-based storage",
+        "processorRequirements": "Any modern processor",
+        "supportingData": "Enterprise-grade security and compliance",
+        "installUrl": "https://www.clousai.com/get-started",
+        "softwareHelp": "https://www.clousai.com/support",
+        "releaseDate": "2024-01-01",
+        "dateModified": "2025-06-13",
+        "keywords": "AI HR software, talent management, skills assessment, workforce planning, HR analytics, talent intelligence, skills-based hiring, employee development",
+        "audience": {
+          "@type": "BusinessAudience",
+          "audienceType": "HR professionals, People Operations teams, Talent Acquisition specialists, Business leaders"
+        },
+        "usageInfo": "Enterprise HR teams looking to automate talent management and skills assessment processes",
+        "maintainer": {
+          "@type": "Organization",
+          "name": "Clous Development Team",
+          "url": "https://www.clousai.com/about"
+        },
+        "copyrightHolder": {
+          "@type": "Organization",
+          "name": "Clous",
+          "url": "https://www.clousai.com"
+        },
+        "copyrightYear": "2025",
+        "license": "https://www.clousai.com/terms/terms-of-use",
+        "isAccessibleForFree": false,
+        "hasPart": [
+          {
+            "@type": "SoftwareApplication",
+            "name": "Skills Intelligence Module",
+            "description": "AI-powered skills assessment and discovery"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Talent Analytics Dashboard",
+            "description": "Real-time insights and reporting for HR teams"
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Workforce Planning Tools",
+            "description": "Strategic talent planning aligned with business goals"
+          }
+        ]
+      }
+    }
+  },
+  "Navigation": {
+    "product": "Product",
+    "about": "About",
+    "pricing": "Pricing",
+    "editorial": "Editorial",
+    "articles": "Articles",
+    "cta1": "Login",
+    "cta2": "Get a demo"
+  }
+}
