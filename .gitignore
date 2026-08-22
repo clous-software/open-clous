@@ -1,1 +1,17 @@
 clous-web/.venv
+
+# Local operating-system metadata
+.DS_Store
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+
+# JavaScript dependencies and generated caches
+node_modules/
+
+# Historical web export build artifacts
+open-source-clous/clous-web - copia/build/
+open-source-clous/clous-web - copia/static/js/main.*.js
+open-source-clous/clous-web - copia/static/js/main.*.js.map
